@@ -3,9 +3,9 @@
     <!-- Global Strings -->
     <string name="cancel">ยกเลิก</string>
     <string name="close">ปิด</string>
-    <string name="description_microg">การปรับใช้ GMS แบบกำหนดเองสำหรับ Vanced ตามโครงการ microG</string>
+    <string name="description_microg">การปรับใช้ GMS แบบกำหนดเองสำหรับ YTPlusตามโครงการ microG</string>
     <string name="description_vanced">ไคลเอนต์ YouTube ที่ได้รับการแก้ไขพร้อมคุณสมบัติที่มีประโยชน์มากมาย!</string>
-    <string name="description_vanced_music">Vanced สำหรับ YouTube Music!  คุณสมบัติค่อนข้างน้อย แต่ตอบสนองความต้องการของคุณ</string>
+    <string name="description_vanced_music">YTPlusสำหรับ YouTube Music!  คุณสมบัติค่อนข้างน้อย แต่ตอบสนองความต้องการของคุณ</string>
     <string name="reset">ล้างค่าเริ่มต้น</string>
     <string name="save">บันทึก</string>
     <string name="select_apps">เลือกแอปพลิเคชันของคุณ</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">กำลังดาวน์โหลด %1$s</string>
     <string name="install">ติดตั้ง</string>
     <string name="latest">ล่าสุด:</string>
-    <string name="no_microg">ติดตั้ง Vanced microG ก่อน</string>
+    <string name="no_microg">ติดตั้ง YTPlusmicroG ก่อน</string>
     <string name="root_not_granted">ไม่ได้รับสิทธิ์ของรูท</string>
     <string name="social_media">สื่อสังคม</string>
     <string name="unavailable">ไม่สามารถใช้ได้</string>
@@ -75,8 +75,8 @@
     <string name="error">ผิดพลาด</string>
     <string name="guide">คู่มือ</string>
     <string name="hold_on">หยุด!</string>
-    <string name="magisk_vanced">คุณกำลังใช้ Vanced เวอร์ชัน Magisk / TWRP ซึ่งถูกยกเลิกและไม่สามารถอัปเดตได้จากแอปนี้ กรุณาลบออกโดยการถอดโมดูล Magisk / ใช้โปรแกรมถอนการติดตั้ง TWRP Vanced</string>
-    <string name="miui_one">ในการติดตั้ง Vanced คุณต้องปิดใช้งาน การเพิ่มประสิทธิภาพ MIUI ในการตั้งค่าสำหรับนักพัฒนา (คุณสามารถเพิกเฉยต่อคำเตือนนี้ได้ หากคุณใช้ based ROM xiaomi.eu 20.2.20 หรือใหม่กว่า)</string>
+    <string name="magisk_vanced">คุณกำลังใช้ YTPlusเวอร์ชัน Magisk / TWRP ซึ่งถูกยกเลิกและไม่สามารถอัปเดตได้จากแอปนี้ กรุณาลบออกโดยการถอดโมดูล Magisk / ใช้โปรแกรมถอนการติดตั้ง TWRP Vanced</string>
+    <string name="miui_one">ในการติดตั้ง YTPlusคุณต้องปิดใช้งาน การเพิ่มประสิทธิภาพ MIUI ในการตั้งค่าสำหรับนักพัฒนา (คุณสามารถเพิกเฉยต่อคำเตือนนี้ได้ หากคุณใช้ based ROM xiaomi.eu 20.2.20 หรือใหม่กว่า)</string>
     <string name="miui_one_title">การเพิ่มประสิทธิภาพ MIUI เปิดอยู่!</string>
     <string name="please_be_patient">โปรดอย่าออกจากแอปในระหว่างขั้นตอนนี้!</string>
     <string name="uninstall_app_text">Are you sure you want to uninstall %1$s?</string>

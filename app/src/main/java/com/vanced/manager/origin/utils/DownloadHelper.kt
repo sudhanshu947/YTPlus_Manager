@@ -118,7 +118,8 @@ object DownloadHelper : CoroutineScope by CoroutineScope(Dispatchers.IO) {
     }
 
     fun downloadManager(context: Context) {
-        val url = "https://github.com/sudhanshu947/YTPlus_Manager/releases/latest/download/manager.apk"
+        val url =
+            "https://github.com/sudhanshu947/YTPlus_Manager/releases/latest/download/manager.apk"
         download(
             url,
             "https://github.com/sudhanshu947/YTPlus_Manager/",

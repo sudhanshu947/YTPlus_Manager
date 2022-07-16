@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Kanselahin</string>
     <string name="close">Isara</string>
-    <string name="description_microg">Pasadyang Implementasyon ng Mga Serbisyo ng Google Mobile para sa Vanced na nakabase sa proyektong microG.</string>
+    <string name="description_microg">Pasadyang Implementasyon ng Mga Serbisyo ng Google Mobile para sa YTPlusna nakabase sa proyektong microG.</string>
     <string name="description_vanced">Isang binagong kliyente ng YouTube na may maraming kapaki-pakinabang na features!</string>
     <string name="description_vanced_music">Vanced, pero para sa Youtube Music! Hindi kasing dami ang mga features, pero natutupad ang iyong pangangailangan.</string>
     <string name="reset">I-reset</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">Downloading %1$s</string>
     <string name="install">I-install</string>
     <string name="latest">Bago:</string>
-    <string name="no_microg">I-install muna ang Vanced microG</string>
+    <string name="no_microg">I-install muna ang YTPlusmicroG</string>
     <string name="root_not_granted">Walang binigay na root access</string>
     <string name="social_media">Social Media</string>
     <string name="unavailable">Di-makukuha</string>
@@ -75,7 +75,7 @@
     <string name="error">May pagkamali</string>
     <string name="guide">Gabay</string>
     <string name="hold_on">Itigil!</string>
-    <string name="magisk_vanced">Gumagamit ka ng Magisk/TWRP na bersyon ng Vanced, dahil hindi iyon pinatuloy at hindi mai-uupdate gamit nitong app. Tanggalin po ang Magisk module sa pamamagitan ng TWRP Vanced uninstaller.</string>
+    <string name="magisk_vanced">Gumagamit ka ng Magisk/TWRP na bersyon ng Vanced, dahil hindi iyon pinatuloy at hindi mai-uupdate gamit nitong app. Tanggalin po ang Magisk module sa pamamagitan ng TWRP YTPlusuninstaller.</string>
     <string name="miui_one">Upang ma-install ang Vanced, KAILANGAN mong patayin ang MIUI Optimizations na nasa developer settings. (Puwede mong pabayaan ang babala na ito kung ikaw ay gumagamit ng bersyon 20.2.20 o mas bago pa na xiaomi.eu na nakabase na ROM)</string>
     <string name="miui_one_title">Naka-on ang MIUI Optimizations!</string>
     <string name="please_be_patient">Pakiusap WAG patayin ang app habang ginagawa niya ang proseso na ito!</string>

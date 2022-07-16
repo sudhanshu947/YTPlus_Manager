@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Betal bike</string>
     <string name="close">Bigire</string>
-    <string name="description_microg">A custom GMS Implementation for Vanced based on the microG project.</string>
+    <string name="description_microg">A custom GMS Implementation for YTPlus based on the microG project.</string>
     <string name="description_vanced">Mişterîya YouTube bi gelek taybetmendiyên kêrhatî guherî!</string>
     <string name="description_vanced_music">Vanced, lê ji bo YouTube Music!. Ji bo hewcedariyên te, hinekî kêm-dewlemend e.</string>
     <string name="reset">Nûsaz bike</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">Dakêşe %1$s</string>
     <string name="install">Saz bike</string>
     <string name="latest">Dawîn:</string>
-    <string name="no_microg">Pêşîn Vanced microG saz bikin</string>
+    <string name="no_microg">Pêşîn YTPlusmicroG saz bikin</string>
     <string name="root_not_granted">Destlênedanên kokê nayê dayîn</string>
     <string name="social_media">Medyaya Civakî</string>
     <string name="unavailable">Neberdest</string>
@@ -75,7 +75,7 @@
     <string name="error">Çewtî</string>
     <string name="guide">Rêber</string>
     <string name="hold_on">Bisekine!</string>
-    <string name="magisk_vanced">Tu versiyona Magisk/TWRP ya Vanced ê ku hatiye jêbirin û bi bikaranîna vê sepanê nikare were nûjenkirin, bi kar tîne. Ji kerema xwe rake bi rakirina mobîla Magisk/bi karanîna TWRP Vanced rakirin.</string>
+    <string name="magisk_vanced">Tu versiyona Magisk/TWRP ya YTPlusê ku hatiye jêbirin û bi bikaranîna vê sepanê nikare were nûjenkirin, bi kar tîne. Ji kerema xwe rake bi rakirina mobîla Magisk/bi karanîna TWRP YTPlusrakirin.</string>
     <string name="miui_one">Ji bo sazkirina Vanced, divê tu optimîzasyonên MIUI di mîhengên pêşdebiran de neçalak bikî. (Heke hûn 20.2.20 an jî paşê bi romê xiaomi.eu vê hişyariyê paşguh bikin)</string>
     <string name="miui_one_title">Optimîzasyonên MIUI tên çalak kirin!</string>
     <string name="please_be_patient">Ji kerema xwe di vê pêvajoyê de ji sepanê dernakeve!</string>

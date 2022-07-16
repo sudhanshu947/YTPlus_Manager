@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">هەڵوەشاندنەوە</string>
     <string name="close">داخستن</string>
-    <string name="description_microg">نەرمەواڵەی GMS تایبەتە بە Vanced بۆ پرۆژەی microG.</string>
+    <string name="description_microg">نەرمەواڵەی GMS تایبەتە بە YTPlus بۆ پرۆژەی microG.</string>
     <string name="description_vanced">نەرمەواڵەی یوتیوبی پەرەپێدراو لە گەڵ چەندها تایبەتمەندی بەسود!</string>
     <string name="description_vanced_music">Vanced، بۆ یوتوب میوزیک! سەرەڕای تایبەتمەندی کەمتر بەڵام پێداویستییەکانی ئێوە دابین دەکات.</string>
     <string name="reset">ڕێکخستنەوە</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">داگرتنی %1$s</string>
     <string name="install">دامەزراندن</string>
     <string name="latest">دوایین:</string>
-    <string name="no_microg">سەرەتا Vanced microG دابەزێنە</string>
+    <string name="no_microg">سەرەتا YTPlusmicroG دابەزێنە</string>
     <string name="root_not_granted">ڕێگەپێدانی Root نەدراوە</string>
     <string name="social_media">تۆڕە کۆمەڵایەتییەکان</string>
     <string name="unavailable">بەردەست نیە</string>
@@ -75,8 +75,8 @@
     <string name="error">هەڵەیەک ڕوویدا</string>
     <string name="guide">زانیاری</string>
     <string name="hold_on">وەستاندن!</string>
-    <string name="magisk_vanced">تۆ وەشانی Magisk/TWRP ـی Vanced بەکاردێنیت، کە ناتوانرێت بە بەکارهێنانی ئەم بەرنامەیە نوێبکرێتەوە، تکایە لایبدە بە سڕینەوەی مۆدیولی ماگیسک/لەڕێی TWRP Vanced.</string>
-    <string name="miui_one">بۆ ئەوەی Vanced دابمەزرێنیت، پێویستە چاکسازییەکانی ڕووکاری MIUI لە ڕێکبەندەکانی پەرەپێدەر لە کار بخەیت، (دەتوانیت ئەم ئاگاداریە پشتگوێ بخەیت ئەگەر ڕومی تایبەتی وەشانی 20.2.20 یان دواتر xiaomi.eu بەکاردەهێنیت. بەکاردەهێنیت)</string>
+    <string name="magisk_vanced">تۆ وەشانی Magisk/TWRP ـی YTPlusبەکاردێنیت، کە ناتوانرێت بە بەکارهێنانی ئەم بەرنامەیە نوێبکرێتەوە، تکایە لایبدە بە سڕینەوەی مۆدیولی ماگیسک/لەڕێی TWRP Vanced.</string>
+    <string name="miui_one">بۆ ئەوەی YTPlusدابمەزرێنیت، پێویستە چاکسازییەکانی ڕووکاری MIUI لە ڕێکبەندەکانی پەرەپێدەر لە کار بخەیت، (دەتوانیت ئەم ئاگاداریە پشتگوێ بخەیت ئەگەر ڕومی تایبەتی وەشانی 20.2.20 یان دواتر xiaomi.eu بەکاردەهێنیت. بەکاردەهێنیت)</string>
     <string name="miui_one_title">باشترکردنی MIUI چالاککراوە!</string>
     <string name="please_be_patient">تکایە بەرنامەکە دامەخە لەکاتی ئەنجامدانی ئەم پڕۆسەیەدا!</string>
     <string name="uninstall_app_text">ئایا دڵنیایت لە سڕینەوەی %1$s ؟</string>
@@ -95,7 +95,7 @@
     <string name="manager_dev">کراوە بە کوردی لەلایەن: گۆران غەریب(کوردرۆید)</string>
     <string name="other_contributors">وەرگێڕانی کوردی - گۆران غەریب </string>
     <string name="sources">سەرچاوەکان</string>
-    <string name="vanced_team">Vanced تیمی</string>
+    <string name="vanced_team">YTPlusتیمی</string>
     <!-- Error messages -->
     <string name="chown_fail">سەرکەوتو نەبوو `chown` بۆ دانان وەک بەرنامەی سیستەم, تکایە دووبارە هەوڵبدەرەوە.</string>
     <string name="error_downloading">کێشە ڕوویدا لە داگرتنی %1$s</string>
@@ -104,7 +104,7 @@
     <string name="files_missing_va">سەرکەوتو نەبوو لە دۆزینەوەی فایلە پێویستەکان بۆ دامەزراندن، فایلە پێویستیەکان دووبارە دابگرەوە بۆ جێگیرکردن، پاشان دووبارە هەوڵبدەرەوە.</string>
     <string name="ifile_missing">Failed to locate APK file for black/dark theme from storage, please try again.</string>
     <string name="installation_aborted">دامەزراندن سەرکەوتو نەبوو، لەبەر ئەوەی بەکارهێنەر کۆتاییهێنا بە دابەزاندنەکە.</string>
-    <string name="installation_conflict">دامەزراندن سەرکەوتو نەبوو لەبەرئەوەی وەشانێکی تری بەرنامەکە پێشتر دامەزرێنراوە، وەشانی ئێستای Vanced بسڕەوە و پاشان دووبارە هەوڵبدەرەوە.</string>
+    <string name="installation_conflict">دامەزراندن سەرکەوتو نەبوو لەبەرئەوەی وەشانێکی تری بەرنامەکە پێشتر دامەزرێنراوە، وەشانی ئێستای YTPlusبسڕەوە و پاشان دووبارە هەوڵبدەرەوە.</string>
     <string name="installation_downgrade">دامەزراندن سەرکەوتو نەبوو، لەبەر ئەوەی بەکارهێنەر هەوڵیدا بۆ نزمکردنەوەی وەشان، نوێکارییەکانی بەرنامەی بنەڕەتی YouTube بسڕەوە و دووبارە هەوڵبدەرەوە.</string>
     <string name="installation_failed">Installation failed for unknown reasons, join our Telegram or Discord for further support. Please also attach a screenshot from the Advanced menu</string>
     <string name="installation_incompatible">دامەزراندن سەرکەوتو نەبوو لەبەرئەوەی فایلی دابەزاندن گونجاو نییە لەگەڵ ئامێرەکەت، فایلە داگیراوەکان بسڕەوە و پاشان دووبارە هەوڵبدەرەوە.</string>

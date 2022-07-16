@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">বাতিল করুন</string>
     <string name="close">বন্ধ করুন</string>
-    <string name="description_microg">A custom GMS Implementation for Vanced based on the microG project.</string>
+    <string name="description_microg">A custom GMS Implementation for YTPlus based on the microG project.</string>
     <string name="description_vanced">অনেক দরকারী বৈশিষ্ট্য সহ একটি পরিবর্তিত ইউটিউব ক্লায়েন্ট!</string>
     <string name="description_vanced_music">ভ্যান্সড, তবে ইউটিউব মিউজিকের জন্য! তুলনামূলকভাবে কম বৈশিষ্ট্য সমৃদ্ধ তবে আপনার চাহিদা পূরণ করবে।.</string>
     <string name="reset">পুনরায় স্থির করুন</string>

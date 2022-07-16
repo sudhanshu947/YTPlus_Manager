@@ -20,7 +20,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            tools:text="About YouTube Vanced"
+            tools:text="About YouTube Plus"
             style="@style/DialogCardTitle" />
 
         <androidx.appcompat.widget.AppCompatImageView

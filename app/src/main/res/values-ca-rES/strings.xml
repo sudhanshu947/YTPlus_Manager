@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Cancel·la</string>
     <string name="close">Tanca</string>
-    <string name="description_microg">Una implementació modificada de GMS per a Vanced basat en el projecte microG.</string>
+    <string name="description_microg">Una implementació modificada de GMS per a YTPlusbasat en el projecte microG.</string>
     <string name="description_vanced">Una aplicació modificada de YouTube amb moltes característiques útils!</string>
     <string name="description_vanced_music">Vanced, però per a YouTube Music! Amb relativament menys característiques, però que assoleix les vostres necessitats.</string>
     <string name="reset">Restableix</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">Descarregant %1$s</string>
     <string name="install">Instal·lar</string>
     <string name="latest">Darrera:</string>
-    <string name="no_microg">Instal·la primer Vanced microG</string>
+    <string name="no_microg">Instal·la primer YTPlusmicroG</string>
     <string name="root_not_granted">L\'accés arrel no s\'ha concedit</string>
     <string name="social_media">Xarxes socials</string>
     <string name="unavailable">No disponible</string>
@@ -75,8 +75,8 @@
     <string name="error">Error</string>
     <string name="guide">Guia</string>
     <string name="hold_on">Atura\'t!</string>
-    <string name="magisk_vanced">Esteu utilitzant la versió Magisk/TWRP de Vanced, la qual està discontinuada i no es pot actualitzar mitjançant aquesta aplicació. Si us plau, elimineu-la traient el mòdul de Magisk o utilitzant el desinstal·lador Vanced TWRP.</string>
-    <string name="miui_one">Per a instal·lar Vanced cal que desactiveu les Optimitzacions de MIUI a la Configuració de Desenvolupador. (Podeu ignorar aquest avís si feu servir la ROM basada en xiaomi.eu versió 20.2.20 o posterior)</string>
+    <string name="magisk_vanced">Esteu utilitzant la versió Magisk/TWRP de Vanced, la qual està discontinuada i no es pot actualitzar mitjançant aquesta aplicació. Si us plau, elimineu-la traient el mòdul de Magisk o utilitzant el desinstal·lador YTPlusTWRP.</string>
+    <string name="miui_one">Per a instal·lar YTPluscal que desactiveu les Optimitzacions de MIUI a la Configuració de Desenvolupador. (Podeu ignorar aquest avís si feu servir la ROM basada en xiaomi.eu versió 20.2.20 o posterior)</string>
     <string name="miui_one_title">Les Optimitzacions de MIUI estan activades!</string>
     <string name="please_be_patient">Si us plau, NO sortiu de l\'aplicació durant aquest procés!</string>
     <string name="uninstall_app_text">Esteu segurs que voleu desinstal·lar %1$s?</string>
@@ -104,7 +104,7 @@
     <string name="files_missing_va">No s\'ha pogut localitzar els fitxers necessaris per a la instal·lació. Torneu a descarregar els fitxers d\'instal·lació i intenteu-ho de nou.</string>
     <string name="ifile_missing">No s\'ha pogut localitzar el fitxer apk per al tema negre/fosc a l\'emmagatzematge, si us plau, intenteu-ho de nou.</string>
     <string name="installation_aborted">La instal·lació ha fallat perquè l\'usuari ha cancel·lat la instal·lació.</string>
-    <string name="installation_conflict">La instal·lació ha fallat perquè l\'aplicació entra en conflicte amb una aplicació ja instal·lada. Desinstal·leu la versió actual de Vanced i intenteu-ho de nou.</string>
+    <string name="installation_conflict">La instal·lació ha fallat perquè l\'aplicació entra en conflicte amb una aplicació ja instal·lada. Desinstal·leu la versió actual de YTPlusi intenteu-ho de nou.</string>
     <string name="installation_downgrade">La instal·lació ha fallat perquè l\'usuari ha tractat de rebaixar el paquet. Desinstal·leu les actualitzacions de l\'aplicació original i intenteu-ho de nou.</string>
     <string name="installation_failed">La instal·lació ha fallat per motius desconeguts, uniu-vos al nostre Telegram o Discord per a més suport. Si us plau, adjunteu-hi també una captura de pantalla des del menú Avançat</string>
     <string name="installation_incompatible">La instal·lació ha fallat perquè el fitxer d\'instal·lació és incompatible amb el dispositiu. Esborreu els fitxers descarregats a Configuració i torneu-ho a provar.</string>

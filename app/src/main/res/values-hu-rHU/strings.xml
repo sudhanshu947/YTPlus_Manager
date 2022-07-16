@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Visszavonás</string>
     <string name="close">Bezárás</string>
-    <string name="description_microg">Egyedi GMS implementáció a Vanced számára a microG Projekt alapján.</string>
+    <string name="description_microg">Egyedi GMS implementáció a YTPlusszámára a microG Projekt alapján.</string>
     <string name="description_vanced">Egy módosított YouTube kliens számos hasznos funkcióval!</string>
     <string name="description_vanced_music">Vanced, a YouTube Music-ra! Kevésbé funkciógazdag, de kielégíti az igényeidet.</string>
     <string name="reset">Visszaállítás</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">%1$s letöltése</string>
     <string name="install">Telepítés</string>
     <string name="latest">Legújabb:</string>
-    <string name="no_microg">Először telepítse a Vanced microG-t</string>
+    <string name="no_microg">Először telepítse a YTPlusmicroG-t</string>
     <string name="root_not_granted">A root hozzáférés nincs megadva</string>
     <string name="social_media">Közösségi média</string>
     <string name="unavailable">Nem elérhető</string>
@@ -76,7 +76,7 @@ Akarod telepíteni?</string>
     <string name="error">Hiba</string>
     <string name="guide">Útmutató</string>
     <string name="hold_on">Állj!</string>
-    <string name="magisk_vanced">A Vanced Magisk/TWRP verzióját használja, ami már nem támogatott és nem frissíthető ezzel az alkalmazással. Távolítsa el a Magisk modul eltávolításával vagy TWRP Vanced eltávolítóval.</string>
+    <string name="magisk_vanced">A YTPlusMagisk/TWRP verzióját használja, ami már nem támogatott és nem frissíthető ezzel az alkalmazással. Távolítsa el a Magisk modul eltávolításával vagy TWRP YTPluseltávolítóval.</string>
     <string name="miui_one">Hogy a Vanced-et telepítsd, ki KELL kapcsolnod a MIUI Optimalizációt a fejlesztői beállításokban. (Ezt figyelmen kívül hagyhatod ha 20.2.20 vagy későbbi xiaomi.eu alapú ROM-ot használsz)</string>
     <string name="miui_one_title">MIUI optimalizálások engedélyezve!</string>
     <string name="please_be_patient">Kérjük NE lépjen ki a telepítési folyamat alatt!</string>
@@ -86,7 +86,7 @@ Akarod telepíteni?</string>
     <string name="version">Verzió</string>
     <string name="welcome">Üdvözöljük</string>
     <!-- Install Page -->
-    <string name="choose_preferred_language">Vanced nyelvének kiválasztása</string>
+    <string name="choose_preferred_language">YTPlusnyelvének kiválasztása</string>
     <string name="install_latest">Legújabb</string>
     <string name="light_plus_other">Világos + %1$s</string>
     <string name="select_at_least_one_lang">Válasszon ki legalább egy nyelvet!</string>
@@ -96,7 +96,7 @@ Akarod telepíteni?</string>
     <string name="manager_dev">Fejlesztői Menedzser</string>
     <string name="other_contributors">Egyéb Közreműködők</string>
     <string name="sources">Források</string>
-    <string name="vanced_team">Vanced csapat</string>
+    <string name="vanced_team">YTPluscsapat</string>
     <!-- Error messages -->
     <string name="chown_fail">Nem sikerült az APK beállítása a rendszer tulajdonoshoz, kérjük próbálja újra.</string>
     <string name="error_downloading">%1$s letöltése nem sikerült</string>

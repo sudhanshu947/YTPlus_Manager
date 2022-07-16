@@ -1,4 +1,4 @@
-# Vanced Manager
+# YTPlusManager
 <div>
 
 [![Github All Releases](https://img.shields.io/github/downloads/inotia00/VancedManager_v2/total.svg?style=for-the-badge)](https://github.com/inotia00/VancedManager_v2/releases/latest) [![Github All Releases](https://img.shields.io/github/release/inotia00/VancedManager_v2.svg?style=for-the-badge)](https://github.com/inotia00/VancedManager_v2/releases/latest)
@@ -7,15 +7,15 @@
 
 ## Introduction
 
-Hi, when we released Vanced 15.05.54, people were upset because it used the .apks format, which was burdensome to install than a traditional .apk file. Even though we wrote clear instructions on how to install the new Vanced build, people still couldn't figure it out.  
+Hi, when we released YTPlus15.05.54, people were upset because it used the .apks format, which was burdensome to install than a traditional .apk file. Even though we wrote clear instructions on how to install the new YTPlusbuild, people still couldn't figure it out.  
 
-Then we thought, "why don't we make a manager for vanced, which will download, update and uninstall Vanced and MicroG, have an easy and user-friendly UI and be less than 10mb?" and that's how Vanced Manager was born.  
+Then we thought, "why don't we make a manager for vanced, which will download, update and uninstall YTPlusand MicroG, have an easy and user-friendly UI and be less than 10mb?" and that's how YTPlusManager was born.  
   
-After 3 months of development, we are finally ready to Introduce [Vanced Manager v2](https://github.com/inotia00/VancedManager_v2) to the masses!!
+After 3 months of development, we are finally ready to Introduce [YTPlusManager v2](https://github.com/inotia00/VancedManager_v2) to the masses!!
 
 ## Features
 
-- Vanced manager can easily install and uninstall Vanced and MicroG.
+- YTPlusmanager can easily install and uninstall YTPlusand MicroG.
 - It has various settings for customization and better experience. 
 - The Manager comes with an easy-to-use Interface.  
 
@@ -30,7 +30,7 @@ After 3 months of development, we are finally ready to Introduce [Vanced Manager
 ## Contributions
 Pull Requests should be made to the [Dev](https://github.com/inotia00/VancedManager_v2) Branch as that is the working branch, master is for Release code only.
 
-For anyone who wants to provide translations please submit them to this [link](https://crowdin.com/project/vanced-manager) as we also use it for YouTube Vanced. Any issues with translations should be posted there too.
+For anyone who wants to provide translations please submit them to this [link](https://crowdin.com/project/vanced-manager) as we also use it for YouTube Plus. Any issues with translations should be posted there too.
 
 ## TODO
 - [ ] Clean up the ViewModel and DataModel code
@@ -48,7 +48,7 @@ For anyone who wants to provide translations please submit them to this [link](h
 Clone the Repository, open it in Android Studio and build the application.
 
 ## Google Advanced Protection Program
-If you are using this feature on your Google account, you must either disable it or log out from your Google account before installing Youtube Vanced via Vanced Manager.
+If you are using this feature on your Google account, you must either disable it or log out from your Google account before installing YouTube Plus via YTPlusManager.
 The Google Advanced Protection Program does not allow the installation of apps from unknown sources. These security measures are tied to the protected account and not the device. After the installation, you will be able to log back in or enroll again into the program.
 
 ## Using Command Line

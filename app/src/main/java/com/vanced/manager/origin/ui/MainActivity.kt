@@ -51,7 +51,7 @@ class MainActivity : AppCompatActivity() {
         initDialogs(intent.getBooleanExtra("firstLaunch", false))
         manager.observe(this) {
             if (manager.value?.int("versionCode") ?: 0 > VERSION_CODE) {
-				ManagerUpdateDialog.newInstance(true).show(this)
+                ManagerUpdateDialog.newInstance(true).show(this)
             }
         }
     }

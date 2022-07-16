@@ -34,7 +34,7 @@
     <string name="downloading_file">%1$s wird heruntergeladen</string>
     <string name="install">Installieren</string>
     <string name="latest">Neueste:</string>
-    <string name="no_microg">Installiere zuerst Vanced MicroG</string>
+    <string name="no_microg">Installiere zuerst YTPlusMicroG</string>
     <string name="root_not_granted">Root-Zugriff nicht erteilt</string>
     <string name="social_media">Soziale Medien</string>
     <string name="unavailable">Nicht verfügbar</string>
@@ -75,8 +75,8 @@
     <string name="error">Fehler</string>
     <string name="guide">Erklärung</string>
     <string name="hold_on">Stopp!</string>
-    <string name="magisk_vanced">Du benutzt die Magisk/TWRP-Version von Vanced, die nicht mehr unterstützt wird und mit dieser App nicht aktualisiert werden kann. Bitte entferne siie indem du das Magisk-Modul mit dem TWRP Vanced Uninstaller entfernst.</string>
-    <string name="miui_one">Um Vanced installieren zu können, MÜSSEN Sie MIUI Optimierungen in den Entwickleroptionen deaktivieren. (Bitte ignorieren Sie diese Warnung, wenn Sie xiaomi.eu Roms mit der Version 20.2.20 oder höher verwenden.)</string>
+    <string name="magisk_vanced">Du benutzt die Magisk/TWRP-Version von Vanced, die nicht mehr unterstützt wird und mit dieser App nicht aktualisiert werden kann. Bitte entferne siie indem du das Magisk-Modul mit dem TWRP YTPlusUninstaller entfernst.</string>
+    <string name="miui_one">Um YTPlusinstallieren zu können, MÜSSEN Sie MIUI Optimierungen in den Entwickleroptionen deaktivieren. (Bitte ignorieren Sie diese Warnung, wenn Sie xiaomi.eu Roms mit der Version 20.2.20 oder höher verwenden.)</string>
     <string name="miui_one_title">MIUI Optimierungen sind aktiviert!</string>
     <string name="please_be_patient">Bitte schließen Sie die App NICHT während dieses Prozesses!</string>
     <string name="uninstall_app_text">Sind Sie sicher, dass Sie %1$s deinstallieren möchten?</string>

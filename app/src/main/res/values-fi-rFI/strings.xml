@@ -34,7 +34,7 @@
     <string name="downloading_file">Ladataan %1$s</string>
     <string name="install">Asenna</string>
     <string name="latest">Uusin:</string>
-    <string name="no_microg">Asenna Vanced microG ensin</string>
+    <string name="no_microg">Asenna YTPlusmicroG ensin</string>
     <string name="root_not_granted">Pääkäyttäjän oikeuksia ei ole annettu</string>
     <string name="social_media">Social Media</string>
     <string name="unavailable">Ei saatavilla</string>
@@ -75,7 +75,7 @@
     <string name="error">Virhe</string>
     <string name="guide">Opas</string>
     <string name="hold_on">Stop!</string>
-    <string name="magisk_vanced">Käytät Magisk / TWRP versio Vanced, joka on lopetettu ja ei voi päivittää käyttämällä tätä sovellusta. Poista se poistamalla Magisk moduuli / käyttämällä TWRP Vanced asennuksen.</string>
+    <string name="magisk_vanced">Käytät Magisk / TWRP versio Vanced, joka on lopetettu ja ei voi päivittää käyttämällä tätä sovellusta. Poista se poistamalla Magisk moduuli / käyttämällä TWRP YTPlusasennuksen.</string>
     <string name="miui_one">Asentaaksesi Vancedin, sinun täytyy poistaa MIUI-optimisaatiot käytöstä kehittäjäasetuksista. (Voit ohittaa tämän varoituksen, jos käytät versiota 20.2.20 tai uudempaa xiaomi.eu-pohjaista ROM:ia)</string>
     <string name="miui_one_title">MIUI Optimizations are enabled!</string>
     <string name="please_be_patient">ÄLÄ poistu sovelluksesta tämän prosessin aikana!</string>
@@ -95,7 +95,7 @@
     <string name="manager_dev">Kehittäjäpäällikkö</string>
     <string name="other_contributors">Other Contributors</string>
     <string name="sources">Lähdekoodi</string>
-    <string name="vanced_team">Vanced kehitystiimi</string>
+    <string name="vanced_team">YTPluskehitystiimi</string>
     <!-- Error messages -->
     <string name="chown_fail">Ei voitu `chown` APK järjestelmän omistajalle, yritä uudelleen.</string>
     <string name="error_downloading">%1$s lataus epäonnistui</string>

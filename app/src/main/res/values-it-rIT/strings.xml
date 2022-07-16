@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Annulla</string>
     <string name="close">Chiudi</string>
-    <string name="description_microg">Un\'implementazione GMS personalizzata per Vanced basata sul progetto microG.</string>
+    <string name="description_microg">Un\'implementazione GMS personalizzata per YTPlusbasata sul progetto microG.</string>
     <string name="description_vanced">Un client YouTube modificato con molte utili funzionalità!</string>
     <string name="description_vanced_music">Vanced, ma per YouTube Music! Relativamente meno ricco di funzionalità ma ugualmente adattabile alle tue esigenze.</string>
     <string name="reset">Reimposta</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">Download in corso di %1$s</string>
     <string name="install">Installa</string>
     <string name="latest">Disponibile:</string>
-    <string name="no_microg">Installa prima Vanced microG</string>
+    <string name="no_microg">Installa prima YTPlusmicroG</string>
     <string name="root_not_granted">Accesso root non consentito</string>
     <string name="social_media">Social Media</string>
     <string name="unavailable">Non disponibile</string>
@@ -75,7 +75,7 @@
     <string name="error">Errore</string>
     <string name="guide">Guida</string>
     <string name="hold_on">Aspetta!</string>
-    <string name="magisk_vanced">Stai utilizzando la versione Magisk/TWRP di Vanced, ormai obsoleta e non più aggiornabile tramite questa app. Per favore, rimuovila eliminando il modulo Magisk oppure utilizzando TWRP Vanced uninstaller.</string>
+    <string name="magisk_vanced">Stai utilizzando la versione Magisk/TWRP di Vanced, ormai obsoleta e non più aggiornabile tramite questa app. Per favore, rimuovila eliminando il modulo Magisk oppure utilizzando TWRP YTPlusuninstaller.</string>
     <string name="miui_one">Per installare Vanced, DEVI disabilitare le ottimizzazioni MIUI nelle opzioni sviluppatore. (Puoi ignorare questo avviso se stai usando la ROM 20.2.20 o successiva basata su xiaomi.eu)</string>
     <string name="miui_one_title">Le ottimizzazioni MIUI sono abilitate!</string>
     <string name="please_be_patient">Si prega di NON uscire dall\'app durante questo processo!</string>

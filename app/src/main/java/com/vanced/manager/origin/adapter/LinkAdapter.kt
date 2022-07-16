@@ -24,8 +24,12 @@ class LinkAdapter(
         AppCompatResources.getDrawable(context, R.drawable.ic_telegram),
         TELEGRAM
     )
+    private val instagram = LinkModel(
+        AppCompatResources.getDrawable(context, R.drawable.ic_instagram),
+        INSTAGRAM
+    )
 
-    val links = arrayOf(github, telegram)
+    val links = arrayOf(github, telegram, instagram)
 
     inner class LinkViewHolder(private val binding: ViewSocialLinkBinding) :
         RecyclerView.ViewHolder(binding.root) {
@@ -54,6 +58,7 @@ class LinkAdapter(
     companion object {
         const val GITHUB = "https://github.com/sudhanshu947/YTPlus_Manager"
         const val TELEGRAM = "https://t.me/tgyoutubeplus"
+        const val INSTAGRAM = "https://www.instagram.com/mesudhanshuu"
     }
 
 }

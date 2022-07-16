@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">İptal</string>
     <string name="close">Kapat</string>
-    <string name="description_microg">Vanced uygulamaları için özel olarak geliştirilmiş microG tabanlı GMH uygulamasıdır.</string>
+    <string name="description_microg">YTPlusuygulamaları için özel olarak geliştirilmiş microG tabanlı GMH uygulamasıdır.</string>
     <string name="description_vanced">İşe yarar birçok özellikle modifiye edilmiş YouTube sürümü!</string>
     <string name="description_vanced_music">Yine Vanced, ama YouTube Music için! Kıyasen daha az özelliğe sahip ama beklentilerini karşılayacaktır.</string>
     <string name="reset">Sıfırla</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">%1$s indiriliyor</string>
     <string name="install">Yükle</string>
     <string name="latest">Güncel sürüm:</string>
-    <string name="no_microg">Vanced microG\'yi kurmalısın</string>
+    <string name="no_microg">YTPlusmicroG\'yi kurmalısın</string>
     <string name="root_not_granted">Root erişimi verilmedi</string>
     <string name="social_media">Sosyal Medya</string>
     <string name="unavailable">Yüklenmemiş</string>
@@ -85,7 +85,7 @@
     <string name="version">Sürüm</string>
     <string name="welcome">Hoş Geldiniz</string>
     <!-- Install Page -->
-    <string name="choose_preferred_language">Vanced için tercih ettiğiniz dil(ler)i seçin</string>
+    <string name="choose_preferred_language">YTPlusiçin tercih ettiğiniz dil(ler)i seçin</string>
     <string name="install_latest">En yeni</string>
     <string name="light_plus_other">Açık renk + %1$s</string>
     <string name="select_at_least_one_lang">En az bir dil seçmelisin!</string>
@@ -95,7 +95,7 @@
     <string name="manager_dev">Manager Geliştiricileri</string>
     <string name="other_contributors">Katkıda bulunan diğer kişiler</string>
     <string name="sources">Kaynaklar</string>
-    <string name="vanced_team">Vanced Ekibi</string>
+    <string name="vanced_team">YTPlusEkibi</string>
     <!-- Error messages -->
     <string name="chown_fail">APK dosyasına sistem yetkisi atanamadı, lütfen tekrar deneyin.</string>
     <string name="error_downloading">%1$s indirilirken hata oluştu</string>

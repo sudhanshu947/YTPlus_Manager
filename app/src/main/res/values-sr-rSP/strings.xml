@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Откажи</string>
     <string name="close">Затвори</string>
-    <string name="description_microg">A custom GMS Implementation for Vanced based on the microG project.</string>
+    <string name="description_microg">A custom GMS Implementation for YTPlusbased on the microG project.</string>
     <string name="description_vanced">Модификовани YouTube клијент са многим корисним функцијама!</string>
     <string name="description_vanced_music">Vanced, али за YouTube Music! Релативно са мање напредних карактеристикама, али ће задовољити ваше потребе.</string>
     <string name="reset">Ресетуј</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">Преузимање %1$s</string>
     <string name="install">Инсталација</string>
     <string name="latest">Најновија:</string>
-    <string name="no_microg">Инсталирајте прво Vanced microG</string>
+    <string name="no_microg">Инсталирајте прво YTPlusmicroG</string>
     <string name="root_not_granted">Root приступ није омогућен</string>
     <string name="social_media">Социјалне мреже</string>
     <string name="unavailable">Недоступно</string>
@@ -75,8 +75,8 @@
     <string name="error">Грешка</string>
     <string name="guide">Водич</string>
     <string name="hold_on">Заустави!</string>
-    <string name="magisk_vanced">Користите Magisk/TWRP верзију Vanced апликације, која више није подржана и чије коришћење није могуће. Молимо Вас да уклоните ову апликацију из Magisk/TWRP-а путем Vanced апликације за деинсталацију.</string>
-    <string name="miui_one">Да би апликација Vanced била исправно инсталирана морате да искључите оптимизацију за ову апликацију у MIUI подешавањима за програмере.( Ову напомену можете да занемарите у случају ако користите верзију 20.2.20 и новију xiaomi.eu ROM-а)</string>
+    <string name="magisk_vanced">Користите Magisk/TWRP верзију YTPlusапликације, која више није подржана и чије коришћење није могуће. Молимо Вас да уклоните ову апликацију из Magisk/TWRP-а путем YTPlusапликације за деинсталацију.</string>
+    <string name="miui_one">Да би апликација YTPlusбила исправно инсталирана морате да искључите оптимизацију за ову апликацију у MIUI подешавањима за програмере.( Ову напомену можете да занемарите у случају ако користите верзију 20.2.20 и новију xiaomi.eu ROM-а)</string>
     <string name="miui_one_title">MIUI оптимизација је укључена!</string>
     <string name="please_be_patient">Немојте излазити из апликације у току овога процеса!</string>
     <string name="uninstall_app_text">Are you sure you want to uninstall %1$s ?</string>
@@ -85,7 +85,7 @@
     <string name="version">Верзија</string>
     <string name="welcome">Добро дошли</string>
     <!-- Install Page -->
-    <string name="choose_preferred_language">Одаберите језик за коришћење Vanced апликације</string>
+    <string name="choose_preferred_language">Одаберите језик за коришћење YTPlusапликације</string>
     <string name="install_latest">Најновија</string>
     <string name="light_plus_other">Осветљење+%1$s</string>
     <string name="select_at_least_one_lang">Одаберите барем један језик!</string>
@@ -95,7 +95,7 @@
     <string name="manager_dev">Менаџер развоја</string>
     <string name="other_contributors">Други покровитељи</string>
     <string name="sources">Извор</string>
-    <string name="vanced_team">Vanced Тим</string>
+    <string name="vanced_team">YTPlusТим</string>
     <!-- Error messages -->
     <string name="chown_fail">Грешка при додели apk власнику система, покушајте поново.</string>
     <string name="error_downloading">Грешка приликом преузимања %1$s</string>

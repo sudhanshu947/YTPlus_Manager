@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Annuler</string>
     <string name="close">Fermer</string>
-    <string name="description_microg">Une implémentation GMS personnalisée pour Vanced basée sur le projet microG.</string>
+    <string name="description_microg">Une implémentation GMS personnalisée pour YTPlusbasée sur le projet microG.</string>
     <string name="description_vanced">Un client YouTube modifié avec de nombreuses fonctionnalités utiles !</string>
     <string name="description_vanced_music">Vanced, mais pour YouTube Music ! Relativement moins riche en fonctionnalités mais répond à vos besoins.</string>
     <string name="reset">Réinitialiser</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">Téléchargement de %1$s</string>
     <string name="install">Installer</string>
     <string name="latest">Dernière version:</string>
-    <string name="no_microg">Installez d\'abord Vanced microG</string>
+    <string name="no_microg">Installez d\'abord YTPlusmicroG</string>
     <string name="root_not_granted">Accès root non autorisé</string>
     <string name="social_media">Réseaux sociaux</string>
     <string name="unavailable">Indisponible</string>

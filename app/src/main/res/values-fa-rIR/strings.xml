@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">انصراف</string>
     <string name="close">بستن</string>
-    <string name="description_microg">یک پیاده سازی سرویس های گوگل سفارشی برای Vanced بر اساس پروژه microG.</string>
+    <string name="description_microg">یک پیاده سازی سرویس های گوگل سفارشی برای YTPlusبر اساس پروژه microG.</string>
     <string name="description_vanced">یک یوتیوب اصلاح شده با بسیاری از ویژگی های مفید!</string>
     <string name="description_vanced_music">پیشرفته، اما برای یوتیوب موزیک! ویژگی های نسبتاً کمتری دارد اما نیازهای شما را برآورده می کند.</string>
     <string name="reset">بازنشانی</string>

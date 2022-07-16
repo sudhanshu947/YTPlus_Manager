@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Batal</string>
     <string name="close">Tutup</string>
-    <string name="description_microg">Penerapan GMS kustom untuk Vanced yang didasarkan pada proyek microG.</string>
+    <string name="description_microg">Penerapan GMS kustom untuk YTPlusyang didasarkan pada proyek microG.</string>
     <string name="description_vanced">Klien YouTube termodifikasi dengan berbagai fitur berguna!</string>
     <string name="description_vanced_music">Vanced, tetapi untuk YouTube Musik! Relatif memiliki fitur yang kurang kaya tetapi memenuhi kebutuhan Anda.</string>
     <string name="reset">Atur ulang</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">Mengunduh %1$s</string>
     <string name="install">Pasang</string>
     <string name="latest">Terbaru:</string>
-    <string name="no_microg">Pasang Vanced microG terlebih dahulu</string>
+    <string name="no_microg">Pasang YTPlusmicroG terlebih dahulu</string>
     <string name="root_not_granted">Akses Root tidak diberikan</string>
     <string name="social_media">Media Sosial</string>
     <string name="unavailable">Tidak tersedia</string>
@@ -75,7 +75,7 @@
     <string name="error">Terjadi kesalahan</string>
     <string name="guide">Petunjuk</string>
     <string name="hold_on">Berhenti!</string>
-    <string name="magisk_vanced">Anda memakai Vanced versi Magisk/TWRP, yang pengembangannya dihentikan dan tidak bisa diperbarui menggunakan aplikasi ini. Mohon untuk menghapusnya dengan menghapus modul Magisk/gunakan pencopot Vanced TWRP.</string>
+    <string name="magisk_vanced">Anda memakai YTPlusversi Magisk/TWRP, yang pengembangannya dihentikan dan tidak bisa diperbarui menggunakan aplikasi ini. Mohon untuk menghapusnya dengan menghapus modul Magisk/gunakan pencopot YTPlusTWRP.</string>
     <string name="miui_one">Untuk memasang Vanced, Anda HARUS menonaktifkan Optimisasi MIUI pada opsi pengembang. (Anda dapat mengabaikan peringatan ini apabila Anda menggunakan ROM versi 20.2.20 atau lebih yang berbasis xiaomi.eu)</string>
     <string name="miui_one_title">Optimisasi MIUI diaktifkan!</string>
     <string name="please_be_patient">Mohon untuk TIDAK keluar dari aplikasi saat proses ini!</string>

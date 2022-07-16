@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Zrušit</string>
     <string name="close">Zavřít</string>
-    <string name="description_microg">Vlastní implementace GMS pro Vanced založená na projektu microG.</string>
+    <string name="description_microg">Vlastní implementace GMS pro YTPluszaložená na projektu microG.</string>
     <string name="description_vanced">Upravený klient YouTube se spoustou užitečných funkcí!</string>
     <string name="description_vanced_music">Vanced, ale YouTube Music! Obsahuje o trochu méně funkcí, ale splní vaše potřeby.</string>
     <string name="reset">Resetovat</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">Stahování %1$s</string>
     <string name="install">Nainstalovat</string>
     <string name="latest">Nejnovější:</string>
-    <string name="no_microg">Nejprve nainstalujte Vanced microG</string>
+    <string name="no_microg">Nejprve nainstalujte YTPlusmicroG</string>
     <string name="root_not_granted">Root přístup nebyl udělen</string>
     <string name="social_media">Sociální sítě</string>
     <string name="unavailable">Není k dispozici</string>
@@ -75,7 +75,7 @@
     <string name="error">Chyba</string>
     <string name="guide">Průvodce</string>
     <string name="hold_on">Zadržte!</string>
-    <string name="magisk_vanced">Používáte verzi Vanced pro Magisk/TWRP, jejíž vývoj byl ukončen a kterou nelze pomocí této aplikace aktualizovat. Odstraňte ji prosím odebráním modulu Magisk použitím Vanced odinstalátoru v TWRP.</string>
+    <string name="magisk_vanced">Používáte verzi YTPluspro Magisk/TWRP, jejíž vývoj byl ukončen a kterou nelze pomocí této aplikace aktualizovat. Odstraňte ji prosím odebráním modulu Magisk použitím YTPlusodinstalátoru v TWRP.</string>
     <string name="miui_one">Chcete‑li nainstalovat Vanced, MUSÍTE vypnout optimalizace MIUI v nastavení pro vývojáře. (Toto varování můžete ignorovat, pokud používáte ROM založenou na xiaomi.eu verze 20.2.20 nebo novější)</string>
     <string name="miui_one_title">Optimalizace MIUI jsou zapnuty!</string>
     <string name="please_be_patient">Během tohoto procesu NEUKONČUJTE aplikaci!</string>

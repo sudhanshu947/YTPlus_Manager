@@ -3,9 +3,9 @@
     <!-- Global Strings -->
     <string name="cancel">取消</string>
     <string name="close">关闭</string>
-    <string name="description_microg">以 microG 项目为基础，为 Vanced 打造的定制化 Google 移动服务</string>
+    <string name="description_microg">以 microG 项目为基础，为 YTPlus打造的定制化 Google 移动服务</string>
     <string name="description_vanced">经过修改的 YouTube 客户端，具有许多有用的功能！</string>
-    <string name="description_vanced_music">Vanced ，不过是 YouTube Music ！功能相对较少，但足以满足您的需求。</string>
+    <string name="description_vanced_music">YTPlus，不过是 YouTube Music ！功能相对较少，但足以满足您的需求。</string>
     <string name="reset">重置</string>
     <string name="save">保存</string>
     <string name="select_apps">选择您的应用</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">正在下载 %1$s</string>
     <string name="install">安装</string>
     <string name="latest">最新：</string>
-    <string name="no_microg">请先安装 Vanced microG</string>
+    <string name="no_microg">请先安装 YTPlusmicroG</string>
     <string name="root_not_granted">未授予 Root 权限</string>
     <string name="social_media">社交媒体</string>
     <string name="unavailable">不可用</string>
@@ -75,7 +75,7 @@
     <string name="error">错误</string>
     <string name="guide">说明</string>
     <string name="hold_on">警告！</string>
-    <string name="magisk_vanced">您正在使用 Magisk/TWRP 版的 Vanced，它已被停止支持且无法通过此应用更新。请通过移除 Magisk 模块 / 使用 TWRP Vanced 卸载器来移除它。</string>
+    <string name="magisk_vanced">您正在使用 Magisk/TWRP 版的 Vanced，它已被停止支持且无法通过此应用更新。请通过移除 Magisk 模块 / 使用 TWRP YTPlus卸载器来移除它。</string>
     <string name="miui_one">为了能够安装 Vanced，您必须在开发者设置中禁用 MIUI 优化。（如果您正在使用基于 xiaomi.eu 20.2.20 或更新的 ROM，您可以忽略此警告）</string>
     <string name="miui_one_title">MIUI 优化已启用！</string>
     <string name="please_be_patient">请不要在此过程中退出应用！</string>
@@ -85,7 +85,7 @@
     <string name="version">版本</string>
     <string name="welcome">欢迎</string>
     <!-- Install Page -->
-    <string name="choose_preferred_language">为 Vanced 选择您的首选语言</string>
+    <string name="choose_preferred_language">为 YTPlus选择您的首选语言</string>
     <string name="install_latest">最新</string>
     <string name="light_plus_other">浅色 + %1$s</string>
     <string name="select_at_least_one_lang">选择至少一种语言！</string>
@@ -95,7 +95,7 @@
     <string name="manager_dev">Manager 开发人员</string>
     <string name="other_contributors">其它贡献者：</string>
     <string name="sources">源码</string>
-    <string name="vanced_team">Vanced 团队</string>
+    <string name="vanced_team">YTPlus团队</string>
     <!-- Error messages -->
     <string name="chown_fail">无法 `chown` apk 为系统拥有者，请重试。</string>
     <string name="error_downloading">%1$s 下载错误</string>

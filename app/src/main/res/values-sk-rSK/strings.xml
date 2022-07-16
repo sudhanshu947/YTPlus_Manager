@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Zrušiť</string>
     <string name="close">Zavrieť</string>
-    <string name="description_microg">Vlastná implementácia GMS pre Vanced založená na projekte microG.</string>
+    <string name="description_microg">Vlastná implementácia GMS pre YTPluszaložená na projekte microG.</string>
     <string name="description_vanced">Upravený YouTube klient s mnohými užitočnými funkciami!</string>
     <string name="description_vanced_music">Vanced, ale YouTube Music! Obsahuje o trochu menej funkcií, no splní vaše potreby.</string>
     <string name="reset">Resetovať</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">Sťahovanie %1$s</string>
     <string name="install">Inštalovať</string>
     <string name="latest">Najnovšie:</string>
-    <string name="no_microg">Najprv nainštalujte Vanced microG</string>
+    <string name="no_microg">Najprv nainštalujte YTPlusmicroG</string>
     <string name="root_not_granted">Root prístup nebol udelený</string>
     <string name="social_media">Sociálne médiá</string>
     <string name="unavailable">Nedostupné</string>
@@ -75,7 +75,7 @@
     <string name="error">Chyba</string>
     <string name="guide">Sprievodca</string>
     <string name="hold_on">Zadržte!</string>
-    <string name="magisk_vanced">Používate verziu Vanced pre Magisk/TWRP, ktorej vývoj bol ukončený, a ktorú nie je možno pomocou tejto aplikácie aktualizovať. Odstráňte ju prosím odobraním modulu Magisk/použitím TWRP Vanced odinštalátora.</string>
+    <string name="magisk_vanced">Používate verziu YTPluspre Magisk/TWRP, ktorej vývoj bol ukončený, a ktorú nie je možno pomocou tejto aplikácie aktualizovať. Odstráňte ju prosím odobraním modulu Magisk/použitím TWRP YTPlusodinštalátora.</string>
     <string name="miui_one">Ak chcete nainštalovať Vanced, MUSÍTE deaktivovať optimalizáciu MIUI v nastaveniach pre vývojárov. (Toto varovanie môžete ignorovať, ak používate ROM 20.2.20 alebo novšiu, založenú na xiaomi.eu)</string>
     <string name="miui_one_title">Optimalizácie MIUI sú zapnuté!</string>
     <string name="please_be_patient">Počas tohto procesu NEODCHÁDZAJTE z aplikácie!</string>
@@ -112,6 +112,6 @@
     <string name="installation_miui">Inštalácia zlyhala, pretože je povolená optimalizácia MIUI. Zakážte optimalizáciu MIUI a potom to skúste znova.</string>
     <string name="installation_signature">Inštalácia zlyhala, pretože overenie podpisu APK je povolené. Zakážte overenie podpisu APK, a potom to skúste znova.</string>
     <string name="installation_storage">Inštalácia zlyhala, pretože v zariadení nie je dostatok voľného miesta.</string>
-    <string name="modapk_missing">Z inštalačného programu sa nepodarilo nájsť súbor APK pre čiernu/tmavú tému. Vymažte údaje aplikácie Vanced Manager, a potom to skúste znova.</string>
+    <string name="modapk_missing">Z inštalačného programu sa nepodarilo nájsť súbor APK pre čiernu/tmavú tému. Vymažte údaje aplikácie YTPlusManager, a potom to skúste znova.</string>
     <string name="path_missing">Po split inštalácii aplikácie sa nepodarilo nájsť cestu inštalácie originálnej YouTube aplikácie.</string>
 </resources>

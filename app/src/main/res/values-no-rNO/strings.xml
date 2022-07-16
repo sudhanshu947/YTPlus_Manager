@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Avbryt</string>
     <string name="close">Lukk</string>
-    <string name="description_microg">A custom GMS Implementation for Vanced based on the microG project.</string>
+    <string name="description_microg">A custom GMS Implementation for YTPlusbased on the microG project.</string>
     <string name="description_vanced">En modifisert YouTube klient med mange nyttige funksjoner!</string>
     <string name="description_vanced_music">Vanced, med for YouTube Musikk! Relativt mindre funkjonsrik men dekker dine behov.</string>
     <string name="reset">Tilbakestill</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">Laster ned %1$s</string>
     <string name="install">Installer</string>
     <string name="latest">Siste:</string>
-    <string name="no_microg">Installer Vanced microG først</string>
+    <string name="no_microg">Installer YTPlusmicroG først</string>
     <string name="root_not_granted">Root-tilgang ikke godkjent</string>
     <string name="social_media">Sosiale Medier</string>
     <string name="unavailable">Utilgjengelig</string>
@@ -75,8 +75,8 @@
     <string name="error">Feil</string>
     <string name="guide">Guide</string>
     <string name="hold_on">Stopp!</string>
-    <string name="magisk_vanced">Du bruker Magisk/TWRP-versjonen av Vansert, som seponeres og som ikke kan oppdateres ved hjelp av denne appen. Vennligst fjern den ved å fjerne Magisk modul/bruke TWRP Vanced uninstaller.</string>
-    <string name="miui_one">For å installere Vanced MÅ du deaktivere MIUI optimaliseringer i utviklerinnstillingene. (Du kan ignorere denne advarselen hvis du bruker 20.2.20 eller senere xiaomi.eu-basert ROM)</string>
+    <string name="magisk_vanced">Du bruker Magisk/TWRP-versjonen av Vansert, som seponeres og som ikke kan oppdateres ved hjelp av denne appen. Vennligst fjern den ved å fjerne Magisk modul/bruke TWRP YTPlusuninstaller.</string>
+    <string name="miui_one">For å installere YTPlusMÅ du deaktivere MIUI optimaliseringer i utviklerinnstillingene. (Du kan ignorere denne advarselen hvis du bruker 20.2.20 eller senere xiaomi.eu-basert ROM)</string>
     <string name="miui_one_title">MIUI Optimizations are enabled!</string>
     <string name="please_be_patient">Please do NOT exit the app during this process!</string>
     <string name="uninstall_app_text">Er du sikker på at du vil avinstallere %1$s?</string>

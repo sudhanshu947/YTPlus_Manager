@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">إلغاء</string>
     <string name="close">إغلاق</string>
-    <string name="description_microg">تطبيق GMS مخصص لـ Vanced مرتكز على مشروع microG.</string>
+    <string name="description_microg">تطبيق GMS مخصص لـ YTPlusمرتكز على مشروع microG.</string>
     <string name="description_vanced">تطبيق يوتيوب معدل مع العديد من الميزات المفيدة!</string>
     <string name="description_vanced_music">ڤانسد لموسيقى يوتيوب! يلبي احتياجاتك حتى وإن كان يضم ميزات أقل من ڤانسد.</string>
     <string name="reset">إعادة تعيين</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">جارٍ تنزيل %1$s</string>
     <string name="install">تثبيت</string>
     <string name="latest">الأحدث:</string>
-    <string name="no_microg">قم بتثبيت Vanced microG أولاً</string>
+    <string name="no_microg">قم بتثبيت YTPlusmicroG أولاً</string>
     <string name="root_not_granted">لم يتم منح صلاحيات الروت</string>
     <string name="social_media">وسائل التواصل الإجتماعي</string>
     <string name="unavailable">غير متاح</string>

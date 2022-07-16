@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Отказ</string>
     <string name="close">Затвори</string>
-    <string name="description_microg">Персонализирано внедряване на GMS за Vanced въз основа на проекта microG.</string>
+    <string name="description_microg">Персонализирано внедряване на GMS за YTPlusвъз основа на проекта microG.</string>
     <string name="description_vanced">Модифициран клиент за YouTube с много полезни функции!</string>
     <string name="description_vanced_music">Vanced, но за YouTube Music! Относително по-малко богат на функции, но ще отговори на вашите нужди.</string>
     <string name="reset">Изчисти</string>
@@ -14,7 +14,7 @@
     <string name="title_guide">Ръководство</string>
     <string name="title_logs">Логове</string>
     <string name="title_settings">Настройки</string>
-    <string name="update_manager">Обнови Vanced Manager</string>
+    <string name="update_manager">Обнови YTPlusManager</string>
     <!-- Welcome Page -->
     <string name="are_you_rooted">Имате ли Root достъп на устройството си?</string>
     <string name="grant_root">Разрешете Root достъп</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">Изтегляне на %1$s</string>
     <string name="install">Инсталиране</string>
     <string name="latest">Най-нова:</string>
-    <string name="no_microg">Инсталирайте първо Vanced microG</string>
+    <string name="no_microg">Инсталирайте първо YTPlusmicroG</string>
     <string name="root_not_granted">Root достъп не е разрешен</string>
     <string name="social_media">Социални медии</string>
     <string name="unavailable">Недостъпно</string>
@@ -75,7 +75,7 @@
     <string name="error">Грешка</string>
     <string name="guide">Ръководство</string>
     <string name="hold_on">Стоп!</string>
-    <string name="magisk_vanced">Използвате Magisk/TWRP версията на Vanced, която е прекратена и не може да се актуализира с това приложение. Премахнете я като премахнете Magisk модула или чрез TWRP Vanced uninstaller.</string>
+    <string name="magisk_vanced">Използвате Magisk/TWRP версията на Vanced, която е прекратена и не може да се актуализира с това приложение. Премахнете я като премахнете Magisk модула или чрез TWRP YTPlusuninstaller.</string>
     <string name="miui_one">За да инсталирате Vanced, ТРЯБВА да изключите MIUI оптимизациите в настройките за разработчици. (Това не е валидно ако ползвате 20.2.20 или по-нов ROM, базиран на xiaomi.eu)</string>
     <string name="miui_one_title">MIUI оптимизациите са включени!</string>
     <string name="please_be_patient">Моля, НЕ излизайте от приложението по време на този процес!</string>

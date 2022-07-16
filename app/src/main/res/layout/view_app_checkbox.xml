@@ -36,7 +36,7 @@
         app:layout_constraintEnd_toStartOf="@id/app_checkbox"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/app_checkbox_text"
-        tools:text="YouTube Vanced is the stock Android YouTube App, but better!" />
+        tools:text="YouTube Plus is the stock Android YouTube App, but better!" />
 
     <com.ytplus.manager.origin.ui.core.ThemedMaterialCheckbox
         android:id="@+id/app_checkbox"

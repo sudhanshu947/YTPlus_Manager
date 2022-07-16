@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">रद्द करें</string>
     <string name="close">बंद करे</string>
-    <string name="description_microg">MicroG प्रोजेक्ट के आधार पर Vanced के लिए एक कस्टम GMS कार्यान्वयन।</string>
+    <string name="description_microg">MicroG प्रोजेक्ट के आधार पर YTPlusके लिए एक कस्टम GMS कार्यान्वयन।</string>
     <string name="description_vanced">कई उपयोगी सुविधाओं के साथ एक संशोधित यूट्यूब क्लाइंट!</string>
     <string name="description_vanced_music">Vanced, लेकिन यूट्यूब संगीत के लिए! तुलना में कम सुविधा संपन्न लेकिन आपकी आवश्यकताओं को पूरा करता है।</string>
     <string name="reset">रिसेट</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">डाउनलोड हो रहा है %1$s</string>
     <string name="install">इंस्टॉल</string>
     <string name="latest">सबसे नया</string>
-    <string name="no_microg">सबसे पहले Vanced microG इंस्टॉल करें</string>
+    <string name="no_microg">सबसे पहले YTPlusmicroG इंस्टॉल करें</string>
     <string name="root_not_granted">रूट एक्सेस प्रदान नहीं किया गया</string>
     <string name="social_media">सोशल मीडिया</string>
     <string name="unavailable">अनुपलब्ध</string>
@@ -75,8 +75,8 @@
     <string name="error">त्रुटि</string>
     <string name="guide">गाइड</string>
     <string name="hold_on">रुकें!</string>
-    <string name="magisk_vanced">आप Vanced के Magisk / TWRP संस्करण का उपयोग कर रहे हैं, जिसे बंद कर दिया गया है और इस ऐप का उपयोग करके अपडेट नहीं किया जा सकता है। कृपया इस Magisk मॉड्यूल को हटाकर / TWRP Vanced uninstaller का उपयोग करके हटा दें।</string>
-    <string name="miui_one">Vanced इनस्टॉल करने के लिए, आप डेवलपर सेटिंग में MIUI ऑप्टिमाइज़ेशन को निष्क्रिय करें। (यदि आप 20.2.20 या बाद में xiaomi.eu आधारित ROM का उपयोग कर रहे हैं तो आप इस चेतावनी को अनदेखा कर सकते हैं)</string>
+    <string name="magisk_vanced">आप YTPlusके Magisk / TWRP संस्करण का उपयोग कर रहे हैं, जिसे बंद कर दिया गया है और इस ऐप का उपयोग करके अपडेट नहीं किया जा सकता है। कृपया इस Magisk मॉड्यूल को हटाकर / TWRP YTPlusuninstaller का उपयोग करके हटा दें।</string>
+    <string name="miui_one">YTPlusइनस्टॉल करने के लिए, आप डेवलपर सेटिंग में MIUI ऑप्टिमाइज़ेशन को निष्क्रिय करें। (यदि आप 20.2.20 या बाद में xiaomi.eu आधारित ROM का उपयोग कर रहे हैं तो आप इस चेतावनी को अनदेखा कर सकते हैं)</string>
     <string name="miui_one_title">MIUI Optimizations सक्षम हैं!</string>
     <string name="please_be_patient">कृपया इस प्रक्रिया के दौरान ऐप को बंद ना करें!</string>
     <string name="uninstall_app_text">आप सुनिश्चित करें कि आप %1$s की स्थापना रद्द करने के लिए चाहते हैं?</string>
@@ -85,7 +85,7 @@
     <string name="version">संस्करण</string>
     <string name="welcome">स्वागत है!</string>
     <!-- Install Page -->
-    <string name="choose_preferred_language">Vanced के लिए अपनी पसंदीदा भाषा (ए) चुनें</string>
+    <string name="choose_preferred_language">YTPlusके लिए अपनी पसंदीदा भाषा (ए) चुनें</string>
     <string name="install_latest">नवीनतम</string>
     <string name="light_plus_other">लाइट +%1$s</string>
     <string name="select_at_least_one_lang">कम से कम एक भाषा का चयन करें!</string>
@@ -104,7 +104,7 @@
     <string name="files_missing_va">स्थापना के लिए आवश्यक फ़ाइलों का पता लगाने में विफल। स्थापना फ़ाइलों को फिर से डाउनलोड करें, फिर पुनः प्रयास करें।</string>
     <string name="ifile_missing">भंडारण से काले / अंधेरे विषय के लिए apk फ़ाइल खोजने में विफल, कृपया पुनः प्रयास करें।</string>
     <string name="installation_aborted">स्थापना विफल रही क्योंकि उपयोगकर्ता ने स्थापना रद्द कर दी।</string>
-    <string name="installation_conflict">इंस्टॉलेशन विफल रहा क्योंकि ऐप पहले से इंस्टॉल किए गए ऐप के साथ टकराव करता है। Vanced के वर्तमान संस्करण को अनइंस्टॉल करें, फिर पुनः प्रयास करें।</string>
+    <string name="installation_conflict">इंस्टॉलेशन विफल रहा क्योंकि ऐप पहले से इंस्टॉल किए गए ऐप के साथ टकराव करता है। YTPlusके वर्तमान संस्करण को अनइंस्टॉल करें, फिर पुनः प्रयास करें।</string>
     <string name="installation_downgrade">स्थापना विफल रही क्योंकि उपयोगकर्ता ने पैकेज को डाउनग्रेड करने का प्रयास किया। स्टॉक ऐप से अपडेट अनइंस्टॉल करें, फिर प्रयास करें।</string>
     <string name="installation_failed">अज्ञात कारणों से इंस्टॉलेशन विफल हो गया, आगे के समर्थन के लिए हमारे टेलीग्राम या डिस्कॉर्ड में शामिल हों। कृपया उन्नत मेनू से स्क्रीनशॉट भी संलग्न करें ।</string>
     <string name="installation_incompatible">इंस्टॉलेशन विफल हो गया क्योंकि इंस्टॉलेशन फ़ाइल आपके डिवाइस के साथ असंगत है। सेटिंग्स में डाउनलोड की गई फ़ाइलों को साफ़ करें, फिर प्रयास करें।</string>

@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">ਰੱਦ ਕਰੋ</string>
     <string name="close">ਬੰਦ ਕਰੋ</string>
-    <string name="description_microg">A custom GMS Implementation for Vanced based on the microG project.</string>
+    <string name="description_microg">A custom GMS Implementation for YTPlusbased on the microG project.</string>
     <string name="description_vanced">A modified YouTube client with many useful features!</string>
     <string name="description_vanced_music">Vanced, but for YouTube Music! Relatively less feature-rich but fulfills your needs.</string>
     <string name="reset">ਰੀਸੈੱਟ</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ %1$s</string>
     <string name="install">ਸਥਾਪਨਾ</string>
     <string name="latest">ਨਵੀਨਤਮ:</string>
-    <string name="no_microg">Install Vanced microG first</string>
+    <string name="no_microg">Install YTPlusmicroG first</string>
     <string name="root_not_granted">ਰੂਟ ਐਕਸੈਸ ਨਹੀਂ ਦਿੱਤੀ ਗਈ</string>
     <string name="social_media">ਸੋਸ਼ਲ ਮੀਡੀਆ</string>
     <string name="unavailable">ਮੋਜੂਦ ਨਹੀਂ ਹੈ</string>
@@ -75,7 +75,7 @@
     <string name="error">ਗਲਤੀ</string>
     <string name="guide">ਗਾਇਡ</string>
     <string name="hold_on">ਉਡੀਕੋ!</string>
-    <string name="magisk_vanced">ਤੁਸੀਂ Vanced ਦੇ Magisk / TWRP ਸੰਸਕਰਣ ਦਾ ਉਪਯੋਗ ਕਰ ਰਹੇ ਹੋ, ਜਿਸਨੂੰ ਬੰਦ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ ਅੱਤੇ ਇਸ ਐਪ ਦਾ ਉਪਯੋਗ ਕਰਕੇ ਅੱਪਡੇਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ| ਕਿਰਪਾ ਇਸ Magisk ਮੋਡੂਅਲ ਨੂੰ / TWRP Vanced uninstaller ਦਾ ਉਪਯੋਗ ਕਰਕੇ ਹੱਟਾ ਦੇਵੋਂ.</string>
+    <string name="magisk_vanced">ਤੁਸੀਂ YTPlusਦੇ Magisk / TWRP ਸੰਸਕਰਣ ਦਾ ਉਪਯੋਗ ਕਰ ਰਹੇ ਹੋ, ਜਿਸਨੂੰ ਬੰਦ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ ਅੱਤੇ ਇਸ ਐਪ ਦਾ ਉਪਯੋਗ ਕਰਕੇ ਅੱਪਡੇਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ| ਕਿਰਪਾ ਇਸ Magisk ਮੋਡੂਅਲ ਨੂੰ / TWRP YTPlusuninstaller ਦਾ ਉਪਯੋਗ ਕਰਕੇ ਹੱਟਾ ਦੇਵੋਂ.</string>
     <string name="miui_one">To install Vanced, you MUST disable MIUI Optimizations in the developer settings. (You can ignore this warning if you are using 20.2.20 or later xiaomi.eu based ROM)</string>
     <string name="miui_one_title">MIUI Optimizations are enabled!</string>
     <string name="please_be_patient">Please do NOT exit the app during this process!</string>
@@ -85,7 +85,7 @@
     <string name="version">ਵਰਜਨ</string>
     <string name="welcome">ਜੀ ਆਇਆਂ ਨੂੰ</string>
     <!-- Install Page -->
-    <string name="choose_preferred_language">Vanced ਦੇ ਲਈ ਆਪਣੀ ਪਸੰਦੀਦਾ ਭਾਸ਼ਾ (ਏ) ਚੁਣੋ</string>
+    <string name="choose_preferred_language">YTPlusਦੇ ਲਈ ਆਪਣੀ ਪਸੰਦੀਦਾ ਭਾਸ਼ਾ (ਏ) ਚੁਣੋ</string>
     <string name="install_latest">Latest</string>
     <string name="light_plus_other">ਲਾਇਟ + %1$s</string>
     <string name="select_at_least_one_lang">ਘੱਟੋ-ਘੱਟ ਇੱਕ ਭਾਸ਼ਾ ਚੁਣੋ!</string>
@@ -95,7 +95,7 @@
     <string name="manager_dev">ਪ੍ਬੰਧਕ ਨਿਰਮਾਣਕਰਤਾ</string>
     <string name="other_contributors">Other Contributors</string>
     <string name="sources">ਸਰੋਤ</string>
-    <string name="vanced_team">Vanced ਟੋਲੀ</string>
+    <string name="vanced_team">YTPlusਟੋਲੀ</string>
     <!-- Error messages -->
     <string name="chown_fail">ਸਿਸਟਮ ਦੇ ਮਾਲਕ ਨੂੰ APK ਨੂੰ `chown` ਕਰਨ ਵਿੱਚ ਨਾਕਾਮ, ਫਿਰ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰੋ.</string>
     <string name="error_downloading">ਡਾਉਨਲੋਡ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ %1$s</string>

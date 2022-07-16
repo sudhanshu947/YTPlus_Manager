@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Annuleren</string>
     <string name="close">Sluiten</string>
-    <string name="description_microg">Een aangepaste GMS-implementatie voor Vanced gebaseerd op het microG-project.</string>
+    <string name="description_microg">Een aangepaste GMS-implementatie voor YTPlusgebaseerd op het microG-project.</string>
     <string name="description_vanced">Een aangepaste versie van YouTube met veel handige functies!</string>
     <string name="description_vanced_music">Vanced, maar voor YouTube Music!\nMinder functies maar voldoet aan al je wensen.</string>
     <string name="reset">Herstellen</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">%1$s downloaden</string>
     <string name="install">Installeren</string>
     <string name="latest">Recentste:</string>
-    <string name="no_microg">Installeer eerst Vanced microG</string>
+    <string name="no_microg">Installeer eerst YTPlusmicroG</string>
     <string name="root_not_granted">Root machtiging niet toegestaan</string>
     <string name="social_media">Sociale media</string>
     <string name="unavailable">Niet beschikbaar</string>
@@ -76,7 +76,7 @@
     <string name="guide">Handleiding</string>
     <string name="hold_on">Stop!</string>
     <string name="magisk_vanced">Je gebruikt de Magisk/TWRP-versie van Vanced, die is stopgezet en niet met deze app kan worden bijgewerkt. Verwijder deze eerst door de Magisk-module te verwijderen of door de TWRP Vanced-uninstaller te gebruiken.</string>
-    <string name="miui_one">Om Vanced te installeren MOET je MIUI-optimalisaties uitschakelen in de ontwikkelaarsinstellingen (je kan deze waarschuwing negeren als je de op xiaomi.eu gebaseerde ROM 20.2.20 of later gebruikt)</string>
+    <string name="miui_one">Om YTPluste installeren MOET je MIUI-optimalisaties uitschakelen in de ontwikkelaarsinstellingen (je kan deze waarschuwing negeren als je de op xiaomi.eu gebaseerde ROM 20.2.20 of later gebruikt)</string>
     <string name="miui_one_title">MIUI-optimalisaties zijn ingeschakeld!</string>
     <string name="please_be_patient">Sluit de app NIET af tijdens dit proces!</string>
     <string name="uninstall_app_text">Weet je zeker dat je %1$s wil verwijderen?</string>
@@ -112,6 +112,6 @@
     <string name="installation_miui">Installatie mislukt omdat MIUI-optimalisatie is ingeschakeld. Schakel MIUI-optimalisatie uit en probeer het opnieuw.</string>
     <string name="installation_signature">Installatie mislukt omdat apk-handtekeningverificatie is ingeschakeld. Schakel apk-handtekeningverificatie uit en probeer het opnieuw.</string>
     <string name="installation_storage">Installatie mislukt omdat het apparaat niet genoeg vrije ruimte heeft.</string>
-    <string name="modapk_missing">Kan het apk-bestand voor zwart/donker thema niet vinden in het installatiebestand. Verwijder de appdata van Vanced Manager en probeer het opnieuw.</string>
+    <string name="modapk_missing">Kan het apk-bestand voor zwart/donker thema niet vinden in het installatiebestand. Verwijder de appdata van YTPlusManager en probeer het opnieuw.</string>
     <string name="path_missing">Kan het standaard YouTube-installatiepad niet vinden na de gesplitste installatie.</string>
 </resources>

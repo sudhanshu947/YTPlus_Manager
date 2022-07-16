@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Annuller</string>
     <string name="close">Luk</string>
-    <string name="description_microg">En brugerdefineret GMS implementering til Vanced baseret på mikroG-projektet.</string>
+    <string name="description_microg">En brugerdefineret GMS implementering til YTPlusbaseret på mikroG-projektet.</string>
     <string name="description_vanced">En modificeret YouTube klient med mange nyttige funktioner!</string>
     <string name="description_vanced_music">Vanced, men for YouTube Music! Relativt mindre funktionsrig men opfylder dine behov.</string>
     <string name="reset">Nulstil</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">Downloader %1$s</string>
     <string name="install">Installer</string>
     <string name="latest">Seneste:</string>
-    <string name="no_microg">Installer først Vanced microG</string>
+    <string name="no_microg">Installer først YTPlusmicroG</string>
     <string name="root_not_granted">Root adgang ikke tildelt</string>
     <string name="social_media">Sociale medier</string>
     <string name="unavailable">Utilgængelig</string>
@@ -75,8 +75,8 @@
     <string name="error">Fejl</string>
     <string name="guide">Vejledning</string>
     <string name="hold_on">Stop!</string>
-    <string name="magisk_vanced">Det ser ud som om du bruger Magisk/TWRP versionen af Vanced. Den er ikke længere understøttet og kan derfor ikke opdateres igennem denne app. Vær venlig at fjerne magisk modulet/brug TWRP Vanced uninstaller.</string>
-    <string name="miui_one">For at installere Vanced er du NØDT til at slå MIUI optimering fra i udvikler indstillingerne. (Du kan ignorere denne advarsel hvis du bruger en 20.2.20 eller nyere xiaomi.eu baseret ROM)</string>
+    <string name="magisk_vanced">Det ser ud som om du bruger Magisk/TWRP versionen af Vanced. Den er ikke længere understøttet og kan derfor ikke opdateres igennem denne app. Vær venlig at fjerne magisk modulet/brug TWRP YTPlusuninstaller.</string>
+    <string name="miui_one">For at installere YTPluser du NØDT til at slå MIUI optimering fra i udvikler indstillingerne. (Du kan ignorere denne advarsel hvis du bruger en 20.2.20 eller nyere xiaomi.eu baseret ROM)</string>
     <string name="miui_one_title">MIUI Optimering er aktiveret!</string>
     <string name="please_be_patient">Afslut venligst IKKE appen under denne proces!</string>
     <string name="uninstall_app_text">Er du sikker på, at du vil afinstallere %1$s?</string>
@@ -95,7 +95,7 @@
     <string name="manager_dev">Manager udviklere</string>
     <string name="other_contributors">Øvrige Bidragsydere</string>
     <string name="sources">Kilder</string>
-    <string name="vanced_team">Vanced holdet</string>
+    <string name="vanced_team">YTPlusholdet</string>
     <!-- Error messages -->
     <string name="chown_fail">Kunne ikke vælge Apk til systemejer, Prøv igen.</string>
     <string name="error_downloading">Fejl i download af %1$s</string>

@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">ரத்துசெய்</string>
     <string name="close">மூடுக</string>
-    <string name="description_microg">MicroG திட்டத்தின் அடிப்படையில் Vanced தனிப்பயன் GMI செயல்படுத்தல்.</string>
+    <string name="description_microg">MicroG திட்டத்தின் அடிப்படையில் YTPlusதனிப்பயன் GMI செயல்படுத்தல்.</string>
     <string name="description_vanced">பல பயனுள்ள அம்சங்களுடன் ஒரு திருத்தப்பட்ட YouTube வாடிக்கையாளர்!</string>
     <string name="description_vanced_music">Vanced, ஆனால் YouTube இசை! ஒப்பீட்டளவில் குறைவான அம்சம் நிறைந்த பணக்காரர்கள் ஆனால் உங்கள் தேவைகளை பூர்த்தி செய்கிறார்கள்.</string>
     <string name="reset">மீட்டமை</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">%1$s ஐப் பதிவிறக்குகிறது</string>
     <string name="install">நிறுவு</string>
     <string name="latest">சமீபத்தியது:</string>
-    <string name="no_microg">முதலில் Vanced Microg ஐ நிறுவவும்</string>
+    <string name="no_microg">முதலில் YTPlusMicrog ஐ நிறுவவும்</string>
     <string name="root_not_granted">ரூட் அக்சஸ் வழங்கப்படவில்லை</string>
     <string name="social_media">சமூக ஊடகம்</string>
     <string name="unavailable">கிடைக்கவில்லை</string>
@@ -75,8 +75,8 @@
     <string name="error">பிழை</string>
     <string name="guide">வழிகாட்டி</string>
     <string name="hold_on">நிறுத்து!</string>
-    <string name="magisk_vanced">நீங்கள் வேன்ஸின் மேஜிஸ்க் / டி. டபிள்யூ. ஆர். பி பதிப்பைப் பயன்படுத்துகிறீர்கள், இது நிறுத்தப்பட்டது மற்றும் இந்த பயன்பாட்டைப் பயன்படுத்தி புதுப்பிக்க முடியாது. மேஜிஸ்க் தொகுதியை அகற்றி / TWRP Vanced uninstaller ஐப் பயன்படுத்தி அதை அகற்றவும்.</string>
-    <string name="miui_one">Vanced நிறுவ, நீங்கள் டெவலப்பர் அமைப்புகளில் Miui மேம்படுத்தல்களை முடக்க வேண்டும். (நீங்கள் 20.2.20 அல்லது பின்னர் xiaomi.eu அடிப்படையிலான ROM ஐப் பயன்படுத்துகிறீர்களானால் இந்த எச்சரிக்கையை நீங்கள் புறக்கணிக்கலாம்)</string>
+    <string name="magisk_vanced">நீங்கள் வேன்ஸின் மேஜிஸ்க் / டி. டபிள்யூ. ஆர். பி பதிப்பைப் பயன்படுத்துகிறீர்கள், இது நிறுத்தப்பட்டது மற்றும் இந்த பயன்பாட்டைப் பயன்படுத்தி புதுப்பிக்க முடியாது. மேஜிஸ்க் தொகுதியை அகற்றி / TWRP YTPlusuninstaller ஐப் பயன்படுத்தி அதை அகற்றவும்.</string>
+    <string name="miui_one">YTPlusநிறுவ, நீங்கள் டெவலப்பர் அமைப்புகளில் Miui மேம்படுத்தல்களை முடக்க வேண்டும். (நீங்கள் 20.2.20 அல்லது பின்னர் xiaomi.eu அடிப்படையிலான ROM ஐப் பயன்படுத்துகிறீர்களானால் இந்த எச்சரிக்கையை நீங்கள் புறக்கணிக்கலாம்)</string>
     <string name="miui_one_title">MIUI மேம்படுத்தல்கள் இயக்கப்பட்டன!</string>
     <string name="please_be_patient">இந்த செயல்முறையின் போது பயன்பாட்டை விட்டு வெளியேற வேண்டாம்!</string>
     <string name="uninstall_app_text">%1$s ஐ நிறுவல் நீக்க விரும்புகிறீர்களா?</string>
@@ -95,7 +95,7 @@
     <string name="manager_dev">மேலாளர் டெவலப்பர்கள்</string>
     <string name="other_contributors">பிற பங்களிப்பாளர்கள்</string>
     <string name="sources">மூலம்</string>
-    <string name="vanced_team">Vanced கூட்டணி</string>
+    <string name="vanced_team">YTPlusகூட்டணி</string>
     <!-- Error messages -->
     <string name="chown_fail">கணினி உரிமையாளருக்கு APK ஐத் தேடுவதில் தோல்வி, தயவுசெய்து மீண்டும் முயற்சிக்கவும்.</string>
     <string name="error_downloading">%1$s பதிவிறக்குவதில் தோழ்வி</string>

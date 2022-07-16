@@ -34,7 +34,7 @@
     <string name="downloading_file">Загрузка %1$s</string>
     <string name="install">Установить</string>
     <string name="latest">Последняя:</string>
-    <string name="no_microg">Сначала установите Vanced microG</string>
+    <string name="no_microg">Сначала установите YTPlusmicroG</string>
     <string name="root_not_granted">Рут-доступ не предоставлен</string>
     <string name="social_media">Социальные сети</string>
     <string name="unavailable">Недоступно</string>
@@ -75,7 +75,7 @@
     <string name="error">Ошибка</string>
     <string name="guide">Руководство</string>
     <string name="hold_on">Стойте!</string>
-    <string name="magisk_vanced">Похоже, вы используете Magisk/TWRP версию Vanced, которая больше не поддерживается и не может быть обновлена с помощью этого приложения. Пожалуйста, удалите модуль Vanced через Magisk или с помощью деинсталлятора Vanced для TWRP.</string>
+    <string name="magisk_vanced">Похоже, вы используете Magisk/TWRP версию Vanced, которая больше не поддерживается и не может быть обновлена с помощью этого приложения. Пожалуйста, удалите модуль YTPlusчерез Magisk или с помощью деинсталлятора YTPlusдля TWRP.</string>
     <string name="miui_one">Чтобы установить Vanced, вы ДОЛЖНЫ отключить оптимизацию MIUI в настройках разработчика. (Вы можете проигнорировать это предупреждение, если вы используете прошивку на xiaomi.eu версии 20.2.20+)</string>
     <string name="miui_one_title">Оптимизация MIUI включена!</string>
     <string name="please_be_patient">Пожалуйста, НЕ выходите из приложения в течение этого процесса!</string>
@@ -112,6 +112,6 @@
     <string name="installation_miui">Установка не удалась, так как включена Оптимизация MIUI. Отключите Оптимизацию MIUI, затем повторите попытку.</string>
     <string name="installation_signature">Установка не удалась, так как включена проверка подписи APK. Отключите проверку подписи APK, а затем повторите попытку.</string>
     <string name="installation_storage">Установка не удалась из-за отсутствия на устройстве свободного места.</string>
-    <string name="modapk_missing">Не удалось найти APK-файл для черной/темной темы в установщике. Очистите данные Vanced Manager и повторите попытку.</string>
+    <string name="modapk_missing">Не удалось найти APK-файл для черной/темной темы в установщике. Очистите данные YTPlusManager и повторите попытку.</string>
     <string name="path_missing">Не удалось найти стандартный путь установки YouTube после раздельной установки.</string>
 </resources>

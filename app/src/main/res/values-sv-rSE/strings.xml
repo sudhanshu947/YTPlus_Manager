@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Avbryt</string>
     <string name="close">Stäng</string>
-    <string name="description_microg">A custom GMS Implementation for Vanced based on the microG project.</string>
+    <string name="description_microg">A custom GMS Implementation for YTPlusbased on the microG project.</string>
     <string name="description_vanced">En modifierad YouTube-klient med många användbara funktioner!</string>
     <string name="description_vanced_music">Vanced, men för YouTube Music! Relativt mindre funktionsrika men uppfyller dina behov.</string>
     <string name="reset">Återställ</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">Laddar ned %1$s</string>
     <string name="install">Install</string>
     <string name="latest">Senaste:</string>
-    <string name="no_microg">Installera Vanced microG först</string>
+    <string name="no_microg">Installera YTPlusmicroG först</string>
     <string name="root_not_granted">Root-åtkomst inte beviljat</string>
     <string name="social_media">Sociala medier</string>
     <string name="unavailable">Ej tillgänglig</string>

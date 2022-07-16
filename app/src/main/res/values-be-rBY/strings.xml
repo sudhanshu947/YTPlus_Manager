@@ -34,7 +34,7 @@
     <string name="downloading_file">Спампована %1$s</string>
     <string name="install">Усталяваць</string>
     <string name="latest">Апошняя:</string>
-    <string name="no_microg">Спачатку ўсталюйце Vanced microG</string>
+    <string name="no_microg">Спачатку ўсталюйце YTPlusmicroG</string>
     <string name="root_not_granted">Root доступ не прадастаўлены</string>
     <string name="social_media">Сацыяльныя сеткі</string>
     <string name="unavailable">Недаступна</string>
@@ -75,7 +75,7 @@
     <string name="error">Памылка</string>
     <string name="guide">Кіраўніцтва</string>
     <string name="hold_on">Спыніцеся!</string>
-    <string name="magisk_vanced">Здаецца, вы выкарыстоўваеце Magisk/TWRP версію Vanced, якая больш не падтрымліваецца і не можа быць абноўлена з дапамогай гэтай праграмы. Калі ласка, выдаліце модуль Vanced праз Magisk ці з дапамогай Vanced TWRP uninstaller.</string>
+    <string name="magisk_vanced">Здаецца, вы выкарыстоўваеце Magisk/TWRP версію Vanced, якая больш не падтрымліваецца і не можа быць абноўлена з дапамогай гэтай праграмы. Калі ласка, выдаліце модуль YTPlusпраз Magisk ці з дапамогай YTPlusTWRP uninstaller.</string>
     <string name="miui_one">Каб усталяваць Vanced, вы ПАВІННЫ адключыць аптымізацыю MIUI у наладах распрацоўшчыка. (Вы можаце праігнараваць гэтае папярэджанне, калі вы карыстаецеся прашыўкай на xiaomi.eu версіі 20.2.20+)</string>
     <string name="miui_one_title">Аптымізацыя MIUI уключана!</string>
     <string name="please_be_patient">Калі ласка, НЕ выходзьце з праграмы падчас гэтага працэсу!</string>
@@ -112,6 +112,6 @@
     <string name="installation_miui">Не атрымалася ўсталяваць, таму што ўключана аптымізацыя MIUI. Адключыце аптымізацыю MIUI, а потым паўтарыце спробу.</string>
     <string name="installation_signature">Усталёўка не ўдалася, таму што ўключана праверка подпісу apk. Адключыце праверку подпісу apk, а потым паспрабуйце яшчэ раз.</string>
     <string name="installation_storage">Не атрымалася ўсталяваць, таму што на прыладзе недастаткова месца.</string>
-    <string name="modapk_missing">Не атрымалася знайсці apk файл для чорнай/цёмнай тэмы ва ўсталёўніку. Ачысціце данныя Vanced Manager і паспрабуйце яшчэ раз.</string>
+    <string name="modapk_missing">Не атрымалася знайсці apk файл для чорнай/цёмнай тэмы ва ўсталёўніку. Ачысціце данныя YTPlusManager і паспрабуйце яшчэ раз.</string>
     <string name="path_missing">Не атрымалася знайсці стандартны шлях ўсталёўкіі YouTube пасля раздзеленай ўсталёўкі.</string>
 </resources>

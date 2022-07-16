@@ -1,4 +1,4 @@
-rootProject.name = "Vanced Manager"
+rootProject.name = "YTPlusManager"
 
 include(":app")
 

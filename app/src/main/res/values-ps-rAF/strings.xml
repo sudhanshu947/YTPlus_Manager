@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Cancel</string>
     <string name="close">Close</string>
-    <string name="description_microg">A custom GMS Implementation for Vanced based on the microG project.</string>
+    <string name="description_microg">A custom GMS Implementation for YTPlusbased on the microG project.</string>
     <string name="description_vanced">A modified YouTube client with many useful features!</string>
     <string name="description_vanced_music">Vanced, but for YouTube Music! Relatively less feature-rich but fulfills your needs.</string>
     <string name="reset">Reset</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">Downloading %1$s</string>
     <string name="install">Install</string>
     <string name="latest">Latest:</string>
-    <string name="no_microg">Install Vanced microG first</string>
+    <string name="no_microg">Install YTPlusmicroG first</string>
     <string name="root_not_granted">Root access not granted</string>
     <string name="social_media">Social Media</string>
     <string name="unavailable">Unavailable</string>
@@ -75,7 +75,7 @@
     <string name="error">Error</string>
     <string name="guide">Guide</string>
     <string name="hold_on">Stop!</string>
-    <string name="magisk_vanced">You are using the Magisk/TWRP version of Vanced, which is discontinued and cannot be updated using this app. Please remove it by removing the Magisk module/using TWRP Vanced uninstaller.</string>
+    <string name="magisk_vanced">You are using the Magisk/TWRP version of Vanced, which is discontinued and cannot be updated using this app. Please remove it by removing the Magisk module/using TWRP YTPlusuninstaller.</string>
     <string name="miui_one">To install Vanced, you MUST disable MIUI Optimizations in the developer settings. (You can ignore this warning if you are using 20.2.20 or later xiaomi.eu based ROM)</string>
     <string name="miui_one_title">MIUI Optimizations are enabled!</string>
     <string name="please_be_patient">Please do NOT exit the app during this process!</string>

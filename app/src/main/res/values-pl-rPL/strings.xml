@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Anuluj</string>
     <string name="close">Zamknij</string>
-    <string name="description_microg">Niestandardowa implementacja GMS dla Vanced w oparciu o projekt microG.</string>
+    <string name="description_microg">Niestandardowa implementacja GMS dla YTPlusw oparciu o projekt microG.</string>
     <string name="description_vanced">Zmodyfikowany klient YouTube z wieloma przydatnymi funkcjami!</string>
     <string name="description_vanced_music">Vanced, ale dla Muzyki YouTube! Stosunkowo mniej bogaty w funkcje, ale spełnia Twoje potrzeby.</string>
     <string name="reset">Zresetuj</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">Pobieranie %1$s</string>
     <string name="install">Zainstaluj</string>
     <string name="latest">Najnowsza:</string>
-    <string name="no_microg">Najpierw zainstaluj Vanced microG</string>
+    <string name="no_microg">Najpierw zainstaluj YTPlusmicroG</string>
     <string name="root_not_granted">Root nie został przyznany</string>
     <string name="social_media">Media Społecznościowe</string>
     <string name="unavailable">Niedostępne</string>
@@ -75,7 +75,7 @@
     <string name="error">Błąd</string>
     <string name="guide">Przewodnik</string>
     <string name="hold_on">Stop!</string>
-    <string name="magisk_vanced">Używasz wersji Magisk/TWRP Vanced, która została przerwana i nie może zostać zaktualizowana za pomocą tej aplikacji. Proszę go usunąć usuwając moduł Magisk/używając TWRP Vanced deinstalatora.</string>
+    <string name="magisk_vanced">Używasz wersji Magisk/TWRP Vanced, która została przerwana i nie może zostać zaktualizowana za pomocą tej aplikacji. Proszę go usunąć usuwając moduł Magisk/używając TWRP YTPlusdeinstalatora.</string>
     <string name="miui_one">Aby zainstalować Vanced, MUSISZ wyłączyć optymalizację MIUI w ustawieniach dewelopera. (Możesz zignorować to ostrzeżenie, jeśli korzystasz z ROM 20.2.20 lub późniejszego xiaomi.eu)</string>
     <string name="miui_one_title">Optymalizacja MIUI jest włączona!</string>
     <string name="please_be_patient">NIE wychodź z aplikacji podczas trwania tego procesu!</string>

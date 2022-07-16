@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Cancelar</string>
     <string name="close">Cerrar</string>
-    <string name="description_microg">Una implementación de GMS personalizada para Vanced basada en el proyecto microG.</string>
+    <string name="description_microg">Una implementación de GMS personalizada para YTPlusbasada en el proyecto microG.</string>
     <string name="description_vanced">¡Un cliente de YouTube modificado con muchas características útiles!</string>
     <string name="description_vanced_music">Vanced, pero para YouTube Music! Tiene relativamente menos características, pero satisface tus necesidades.</string>
     <string name="reset">Restablecer</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">Descargando %1$s</string>
     <string name="install">Instalar</string>
     <string name="latest">Más reciente:</string>
-    <string name="no_microg">Primero, instala Vanced microG</string>
+    <string name="no_microg">Primero, instala YTPlusmicroG</string>
     <string name="root_not_granted">Acceso root no concedido</string>
     <string name="social_media">Redes Sociales</string>
     <string name="unavailable">No Disponible</string>
@@ -112,6 +112,6 @@
     <string name="installation_miui">La instalación ha fallado porque la Optimización MIUI está activada. Desactiva la optimización MIUI y vuelva a intentarlo.</string>
     <string name="installation_signature">La instalación ha fallado porque la verificación de firmas de APK está habilitada. Deshabilita la verificación de firmas de APK y vuelve a intentarlo.</string>
     <string name="installation_storage">La instalación falló porque el dispositivo no tiene suficiente espacio libre.</string>
-    <string name="modapk_missing">No se pudo encontrar el archivo APK para el tema negro/oscuro desde el instalador. Limpia los datos de la aplicación Vanced Manager y vuelve a intentarlo.</string>
+    <string name="modapk_missing">No se pudo encontrar el archivo APK para el tema negro/oscuro desde el instalador. Limpia los datos de la aplicación YTPlusManager y vuelve a intentarlo.</string>
     <string name="path_missing">Falla al localizar la ruta de instalación de YouTube después de la instalación split.</string>
 </resources>

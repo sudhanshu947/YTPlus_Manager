@@ -3,7 +3,7 @@
     <!-- Global Strings -->
     <string name="cancel">Odustani</string>
     <string name="close">Zatvori</string>
-    <string name="description_microg">Prilagođena GMS implementacija za Vanced temeljena na microG projektu.</string>
+    <string name="description_microg">Prilagođena GMS implementacija za YTPlustemeljena na microG projektu.</string>
     <string name="description_vanced">Modificirani YouTube klijent sa mnogo korisnih značajki!</string>
     <string name="description_vanced_music">Vanced, ali za YouTube Music! S manje značajki ali ispunjava vaše potrebe.</string>
     <string name="reset">Resetiraj</string>
@@ -34,7 +34,7 @@
     <string name="downloading_file">Preuzimam %1$s</string>
     <string name="install">Instaliraj</string>
     <string name="latest">Dostupno:</string>
-    <string name="no_microg">Prvo instaliraj Vanced MicroG</string>
+    <string name="no_microg">Prvo instaliraj YTPlusMicroG</string>
     <string name="root_not_granted">Root pristup nije dopušten</string>
     <string name="social_media">Društvene mreže</string>
     <string name="unavailable">Nedostupno</string>
@@ -75,7 +75,7 @@
     <string name="error">Greška</string>
     <string name="guide">Vodič</string>
     <string name="hold_on">Zaustavi!</string>
-    <string name="magisk_vanced">Koristite Magisk/TWRP inačicu Vanceda, koja više nije podržana i ne može se ažurirati ovom aplikacijom. Uklonite ju uklanjanjem Magisk modula/koristeći TWRP Vanced deinstalator.</string>
+    <string name="magisk_vanced">Koristite Magisk/TWRP inačicu Vanceda, koja više nije podržana i ne može se ažurirati ovom aplikacijom. Uklonite ju uklanjanjem Magisk modula/koristeći TWRP YTPlusdeinstalator.</string>
     <string name="miui_one">Kako bi instalirali Vanced, MORATE onemogućiti MIUI optimizaciju u razvojnim mogućnostima. (Ovo upozorenje možete zanemariti ako koristite 20.2.20 ili noviji xiaomi.eu ROM)</string>
     <string name="miui_one_title">MIUI optimizacija je omogućena!</string>
     <string name="please_be_patient">NE zatvarajte aplikaciju tijekom ovog postupka!</string>
@@ -92,10 +92,10 @@
     <string name="vanced_black">Crna</string>
     <string name="vanced_dark">Tamna</string>
     <!-- About Page -->
-    <string name="manager_dev">Razvijatelji Vanced upravitelja</string>
+    <string name="manager_dev">Razvijatelji YTPlusupravitelja</string>
     <string name="other_contributors">Ostali suradnici</string>
     <string name="sources">Izvori</string>
-    <string name="vanced_team">Vanced tim</string>
+    <string name="vanced_team">YTPlustim</string>
     <!-- Error messages -->
     <string name="chown_fail">Neuspjela promjena `chown` APK u vlasnika sustava, pokušajte ponovno.</string>
     <string name="error_downloading">Greška preuzimanja %1$s</string>
