@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.dialogs
+package com.ytplus.manager.origin.ui.dialogs
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,13 +6,13 @@ import android.view.ViewGroup
 import android.view.ViewGroup.LayoutParams.MATCH_PARENT
 import android.view.ViewGroup.LayoutParams.WRAP_CONTENT
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
-import com.vanced.manager.origin.BuildConfig.MANAGER_LANGUAGES
-import com.vanced.manager.origin.core.ui.base.BindingBottomSheetDialogFragment
-import com.vanced.manager.origin.databinding.DialogManagerLanguageBinding
-import com.vanced.manager.origin.ui.core.ThemedMaterialRadioButton
-import com.vanced.manager.origin.utils.checkedButtonTag
-import com.vanced.manager.origin.utils.getLanguageFormat
-import com.vanced.manager.origin.utils.managerLang
+import com.ytplus.manager.origin.BuildConfig.MANAGER_LANGUAGES
+import com.ytplus.manager.origin.core.ui.base.BindingBottomSheetDialogFragment
+import com.ytplus.manager.origin.databinding.DialogManagerLanguageBinding
+import com.ytplus.manager.origin.ui.core.ThemedMaterialRadioButton
+import com.ytplus.manager.origin.utils.checkedButtonTag
+import com.ytplus.manager.origin.utils.getLanguageFormat
+import com.ytplus.manager.origin.utils.managerLang
 
 class ManagerLanguageDialog : BindingBottomSheetDialogFragment<DialogManagerLanguageBinding>() {
 

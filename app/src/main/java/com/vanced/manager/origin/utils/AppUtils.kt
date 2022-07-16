@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.utils
+package com.ytplus.manager.origin.utils
 
 import android.content.Context
 import android.content.Intent
@@ -10,11 +10,11 @@ import android.text.style.ForegroundColorSpan
 import android.text.style.StyleSpan
 import android.util.Log
 import androidx.localbroadcastmanager.content.LocalBroadcastManager
-import com.vanced.manager.origin.BuildConfig
-import com.vanced.manager.origin.BuildConfig.APPLICATION_ID
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.ui.dialogs.AppDownloadDialog
-import com.vanced.manager.origin.ui.fragments.HomeFragment
+import com.ytplus.manager.origin.BuildConfig
+import com.ytplus.manager.origin.BuildConfig.APPLICATION_ID
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.ui.dialogs.AppDownloadDialog
+import com.ytplus.manager.origin.ui.fragments.HomeFragment
 import kotlinx.coroutines.*
 import java.io.File
 import java.io.IOException
@@ -23,12 +23,12 @@ import java.util.*
 
 object AppUtils : CoroutineScope by CoroutineScope(Dispatchers.IO) {
 
-    const val vancedPkg = "com.vanced.android.youtube"
+    const val vancedPkg = "com.ytplus.android.youtube"
     const val vancedRootPkg = "com.google.android.youtube"
-    const val musicPkg = "com.vanced.android.apps.youtube.music"
+    const val musicPkg = "com.ytplus.android.apps.youtube.music"
     const val musicRootPkg = "com.google.android.apps.youtube.music"
     const val microgPkg = "com.mgoogle.android.gms"
-    const val faqpkg = "com.vanced.faq"
+    const val faqpkg = "com.ytplus.faq"
     const val managerPkg = APPLICATION_ID
     const val playStorePkg = "com.android.vending"
 

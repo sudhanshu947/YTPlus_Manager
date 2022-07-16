@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.fragments
+package com.ytplus.manager.origin.ui.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -10,16 +10,16 @@ import androidx.core.view.isVisible
 import androidx.fragment.app.FragmentActivity
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.adapter.GetNotifAdapter
-import com.vanced.manager.origin.core.ui.base.BindingFragment
-import com.vanced.manager.origin.core.ui.ext.showDialog
-import com.vanced.manager.origin.databinding.FragmentSettingsBinding
-import com.vanced.manager.origin.ui.dialogs.*
-import com.vanced.manager.origin.utils.accentColor
-import com.vanced.manager.origin.utils.defAccentColor
-import com.vanced.manager.origin.utils.getLanguageFormat
-import com.vanced.manager.origin.utils.toHex
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.adapter.GetNotifAdapter
+import com.ytplus.manager.origin.core.ui.base.BindingFragment
+import com.ytplus.manager.origin.core.ui.ext.showDialog
+import com.ytplus.manager.origin.databinding.FragmentSettingsBinding
+import com.ytplus.manager.origin.ui.dialogs.*
+import com.ytplus.manager.origin.utils.accentColor
+import com.ytplus.manager.origin.utils.defAccentColor
+import com.ytplus.manager.origin.utils.getLanguageFormat
+import com.ytplus.manager.origin.utils.toHex
 import java.io.File
 
 class SettingsFragment : BindingFragment<FragmentSettingsBinding>() {

@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.dialogs
+package com.ytplus.manager.origin.ui.dialogs
 
 import android.content.DialogInterface
 import android.os.Bundle
@@ -6,14 +6,14 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.core.content.edit
 import com.google.android.material.radiobutton.MaterialRadioButton
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.core.ui.base.BindingBottomSheetDialogFragment
-import com.vanced.manager.origin.core.ui.ext.showDialog
-import com.vanced.manager.origin.databinding.DialogBottomRadioButtonBinding
-import com.vanced.manager.origin.ui.core.ThemedMaterialRadioButton
-import com.vanced.manager.origin.utils.checkedButtonTag
-import com.vanced.manager.origin.utils.defPrefs
-import com.vanced.manager.origin.utils.formatVersion
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.core.ui.base.BindingBottomSheetDialogFragment
+import com.ytplus.manager.origin.core.ui.ext.showDialog
+import com.ytplus.manager.origin.databinding.DialogBottomRadioButtonBinding
+import com.ytplus.manager.origin.ui.core.ThemedMaterialRadioButton
+import com.ytplus.manager.origin.utils.checkedButtonTag
+import com.ytplus.manager.origin.utils.defPrefs
+import com.ytplus.manager.origin.utils.formatVersion
 
 class AppVersionSelectorDialog :
     BindingBottomSheetDialogFragment<DialogBottomRadioButtonBinding>() {

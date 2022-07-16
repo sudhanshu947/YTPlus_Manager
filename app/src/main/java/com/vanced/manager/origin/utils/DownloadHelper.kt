@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.utils
+package com.ytplus.manager.origin.utils
 
 import android.content.ActivityNotFoundException
 import android.content.Context
@@ -6,10 +6,10 @@ import android.content.Intent
 import android.net.Uri
 import android.os.Build
 import androidx.core.content.FileProvider
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.library.network.providers.createService
-import com.vanced.manager.origin.utils.AppUtils.log
-import com.vanced.manager.origin.utils.AppUtils.sendCloseDialog
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.library.network.providers.createService
+import com.ytplus.manager.origin.utils.AppUtils.log
+import com.ytplus.manager.origin.utils.AppUtils.sendCloseDialog
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
@@ -118,10 +118,10 @@ object DownloadHelper : CoroutineScope by CoroutineScope(Dispatchers.IO) {
     }
 
     fun downloadManager(context: Context) {
-        val url = "https://github.com/inotia00/VancedManager_v2/releases/latest/download/manager.apk"
+        val url = "https://github.com/sudhanshu947/YTPlus_Manager/releases/latest/download/manager.apk"
         download(
             url,
-            "https://github.com/inotia00/VancedManager_v2/",
+            "https://github.com/sudhanshu947/YTPlus_Manager/",
             "manager",
             "manager.apk",
             context,

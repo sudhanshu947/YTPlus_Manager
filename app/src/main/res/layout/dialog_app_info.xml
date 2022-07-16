@@ -33,7 +33,7 @@
             app:layout_constraintTop_toBottomOf="@id/about_app_name"
             tools:src="@drawable/ic_vanced" />
 
-        <com.vanced.manager.origin.ui.core.ThemedTextView
+        <com.ytplus.manager.origin.ui.core.ThemedTextView
             android:id="@+id/about_app_changelog_header"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

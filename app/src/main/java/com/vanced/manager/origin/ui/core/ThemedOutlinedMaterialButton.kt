@@ -1,12 +1,12 @@
-package com.vanced.manager.origin.ui.core
+package com.ytplus.manager.origin.ui.core
 
 import android.content.Context
 import android.content.res.ColorStateList
 import android.util.AttributeSet
 import androidx.core.graphics.ColorUtils
 import com.google.android.material.button.MaterialButton
-import com.vanced.manager.origin.utils.accentColor
-import com.vanced.manager.origin.utils.lifecycleOwner
+import com.ytplus.manager.origin.utils.accentColor
+import com.ytplus.manager.origin.utils.lifecycleOwner
 
 class ThemedOutlinedMaterialButton @JvmOverloads constructor(
     context: Context,

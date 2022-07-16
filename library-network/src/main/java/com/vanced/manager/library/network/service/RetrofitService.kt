@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.library.network.service
+package com.ytplus.manager.origin.library.network.service
 
 import retrofit2.Retrofit
 

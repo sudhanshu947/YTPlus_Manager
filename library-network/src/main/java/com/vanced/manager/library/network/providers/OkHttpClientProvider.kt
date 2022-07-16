@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.library.network.providers
+package com.ytplus.manager.origin.library.network.providers
 
 import okhttp3.Authenticator
 import okhttp3.Interceptor

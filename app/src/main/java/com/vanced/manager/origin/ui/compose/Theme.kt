@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.compose
+package com.ytplus.manager.origin.ui.compose
 
 //import android.content.Context
 //import androidx.compose.foundation.isSystemInDarkTheme
@@ -12,7 +12,7 @@ package com.vanced.manager.origin.ui.compose
 //import androidx.compose.ui.graphics.Color
 //import androidx.compose.ui.platform.LocalContext
 //import androidx.preference.PreferenceManager.getDefaultSharedPreferences
-//import com.vanced.manager.origin.utils.mutableAccentColor
+//import com.ytplus.manager.origin.utils.mutableAccentColor
 //
 //const val Dark = "Dark"
 //const val SystemDefault = "System Default"

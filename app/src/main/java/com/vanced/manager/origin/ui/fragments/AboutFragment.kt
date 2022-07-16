@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.fragments
+package com.ytplus.manager.origin.ui.fragments
 
 import android.annotation.SuppressLint
 import android.os.Bundle
@@ -9,13 +9,13 @@ import android.widget.Toast
 import androidx.core.content.edit
 import androidx.fragment.app.viewModels
 import androidx.preference.PreferenceManager
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.core.ui.base.BindingFragment
-import com.vanced.manager.origin.core.ui.ext.showDialog
-import com.vanced.manager.origin.databinding.FragmentAboutBinding
-import com.vanced.manager.origin.ui.dialogs.AppInfoDialog
-import com.vanced.manager.origin.ui.viewmodels.AboutViewModel
-import com.vanced.manager.origin.utils.manager
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.core.ui.base.BindingFragment
+import com.ytplus.manager.origin.core.ui.ext.showDialog
+import com.ytplus.manager.origin.databinding.FragmentAboutBinding
+import com.ytplus.manager.origin.ui.dialogs.AppInfoDialog
+import com.ytplus.manager.origin.ui.viewmodels.AboutViewModel
+import com.ytplus.manager.origin.utils.manager
 
 class AboutFragment : BindingFragment<FragmentAboutBinding>() {
 

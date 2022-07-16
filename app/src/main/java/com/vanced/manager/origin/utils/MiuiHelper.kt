@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.utils
+package com.ytplus.manager.origin.utils
 
 import android.content.Context
 import android.provider.Settings

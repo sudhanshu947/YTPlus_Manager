@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.utils
+package com.ytplus.manager.origin.utils
 
 import android.app.PendingIntent
 import android.os.Build

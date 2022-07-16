@@ -1,12 +1,12 @@
-package com.vanced.manager.origin.library.network.di
+package com.ytplus.manager.origin.library.network.di
 
-import com.vanced.manager.origin.library.network.okhttp.interceptors.LOG_INTERCEPTOR
-import com.vanced.manager.origin.library.network.okhttp.interceptors.NO_CONNECT_INTERCEPTOR
-import com.vanced.manager.origin.library.network.okhttp.interceptors.loggingInterceptor
-import com.vanced.manager.origin.library.network.okhttp.interceptors.noConnectionInterceptor
-import com.vanced.manager.origin.library.network.providers.provideMoshi
-import com.vanced.manager.origin.library.network.providers.provideOkHttpClient
-import com.vanced.manager.origin.library.network.providers.provideRetrofit
+import com.ytplus.manager.origin.library.network.okhttp.interceptors.LOG_INTERCEPTOR
+import com.ytplus.manager.origin.library.network.okhttp.interceptors.NO_CONNECT_INTERCEPTOR
+import com.ytplus.manager.origin.library.network.okhttp.interceptors.loggingInterceptor
+import com.ytplus.manager.origin.library.network.okhttp.interceptors.noConnectionInterceptor
+import com.ytplus.manager.origin.library.network.providers.provideMoshi
+import com.ytplus.manager.origin.library.network.providers.provideOkHttpClient
+import com.ytplus.manager.origin.library.network.providers.provideRetrofit
 import org.koin.android.BuildConfig
 import org.koin.android.ext.koin.androidContext
 import org.koin.core.qualifier.named

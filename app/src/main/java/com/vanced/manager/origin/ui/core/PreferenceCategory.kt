@@ -1,11 +1,11 @@
-package com.vanced.manager.origin.ui.core
+package com.ytplus.manager.origin.ui.core
 
 import android.content.Context
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.LinearLayout
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.databinding.ViewPreferenceCategoryBinding
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.databinding.ViewPreferenceCategoryBinding
 
 class PreferenceCategory @JvmOverloads constructor(
     context: Context,

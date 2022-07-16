@@ -1,14 +1,14 @@
-package com.vanced.manager.origin.ui.dialogs
+package com.ytplus.manager.origin.ui.dialogs
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import com.google.android.material.radiobutton.MaterialRadioButton
-import com.vanced.manager.origin.core.ui.base.BindingBottomSheetDialogFragment
-import com.vanced.manager.origin.databinding.DialogManagerThemeBinding
-import com.vanced.manager.origin.utils.checkedButtonTag
-import com.vanced.manager.origin.utils.managerTheme
+import com.ytplus.manager.origin.core.ui.base.BindingBottomSheetDialogFragment
+import com.ytplus.manager.origin.databinding.DialogManagerThemeBinding
+import com.ytplus.manager.origin.utils.checkedButtonTag
+import com.ytplus.manager.origin.utils.managerTheme
 
 class ManagerThemeDialog : BindingBottomSheetDialogFragment<DialogManagerThemeBinding>() {
 

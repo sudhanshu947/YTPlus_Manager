@@ -1,9 +1,9 @@
-package com.vanced.manager.origin.core.mvi.subject
+package com.ytplus.manager.origin.core.mvi.subject
 
-import com.vanced.manager.origin.core.mvi.Handler
-import com.vanced.manager.origin.core.mvi.MviFlow
-import com.vanced.manager.origin.core.mvi.MviFlowStore
-import com.vanced.manager.origin.core.mvi.Reducer
+import com.ytplus.manager.origin.core.mvi.Handler
+import com.ytplus.manager.origin.core.mvi.MviFlow
+import com.ytplus.manager.origin.core.mvi.MviFlowStore
+import com.ytplus.manager.origin.core.mvi.Reducer
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.flow.MutableSharedFlow
 

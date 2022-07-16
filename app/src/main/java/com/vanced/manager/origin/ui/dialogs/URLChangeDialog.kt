@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.dialogs
+package com.ytplus.manager.origin.ui.dialogs
 
 import android.graphics.Color
 import android.graphics.drawable.ColorDrawable
@@ -7,9 +7,9 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.lifecycle.lifecycleScope
-import com.vanced.manager.origin.core.ui.base.BindingDialogFragment
-import com.vanced.manager.origin.databinding.DialogCustomUrlBinding
-import com.vanced.manager.origin.utils.*
+import com.ytplus.manager.origin.core.ui.base.BindingDialogFragment
+import com.ytplus.manager.origin.databinding.DialogCustomUrlBinding
+import com.ytplus.manager.origin.utils.*
 import kotlinx.coroutines.launch
 
 class URLChangeDialog : BindingDialogFragment<DialogCustomUrlBinding>() {

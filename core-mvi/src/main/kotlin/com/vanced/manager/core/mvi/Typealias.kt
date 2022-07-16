@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.core.mvi
+package com.ytplus.manager.origin.core.mvi
 
 import kotlinx.coroutines.flow.MutableSharedFlow
 

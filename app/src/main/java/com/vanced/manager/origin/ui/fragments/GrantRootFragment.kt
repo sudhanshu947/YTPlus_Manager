@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.fragments
+package com.ytplus.manager.origin.ui.fragments
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,10 +8,10 @@ import android.widget.Toast
 import androidx.core.content.edit
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import com.topjohnwu.superuser.Shell
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.core.ui.base.BindingFragment
-import com.vanced.manager.origin.databinding.FragmentGrantRootBinding
-import com.vanced.manager.origin.ui.MainActivity
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.core.ui.base.BindingFragment
+import com.ytplus.manager.origin.databinding.FragmentGrantRootBinding
+import com.ytplus.manager.origin.ui.MainActivity
 
 class GrantRootFragment : BindingFragment<FragmentGrantRootBinding>() {
 

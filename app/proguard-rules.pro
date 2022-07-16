@@ -12,7 +12,7 @@
 #   public *;
 #}
 
--keep class com.vanced.manager.origin.core.App
+-keep class com.ytplus.manager.origin.core.App
 -keep class com.crowdin.platform.* { *; }
 
 # Uncomment this to preserve the line number information for

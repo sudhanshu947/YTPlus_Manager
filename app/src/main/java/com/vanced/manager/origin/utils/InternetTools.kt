@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.utils
+package com.ytplus.manager.origin.utils
 
 import android.content.ActivityNotFoundException
 import android.content.Context
@@ -13,9 +13,9 @@ import androidx.lifecycle.MutableLiveData
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import com.beust.klaxon.JsonArray
 import com.beust.klaxon.JsonObject
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.utils.AppUtils.generateChecksum
-import com.vanced.manager.origin.utils.AppUtils.log
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.utils.AppUtils.generateChecksum
+import com.ytplus.manager.origin.utils.AppUtils.log
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import java.io.File
@@ -89,13 +89,13 @@ suspend fun loadJson(context: Context) = withContext(Dispatchers.IO) {
         }
         if (connection.responseCode != 200) {
             log(TAG, latestbaseUrl + ": " + connection.responseCode.toString())
-            baseInstallUrl = "https://github.com/inotia00/after_vanced/raw/vanced/api/v1"
+            baseInstallUrl = "https://github.com/sudhanshu947/YoutubePlusApi/raw/YTPlusApi/api/v1"
         }
     } catch (e: IOException) {
-        baseInstallUrl = "https://github.com/inotia00/after_vanced/raw/vanced/api/v1"
+        baseInstallUrl = "https://github.com/sudhanshu947/YoutubePlusApi/raw/YTPlusApi/api/v1"
     } catch (e: SocketTimeoutException) {
         log(TAG, "connection timed out")
-        baseInstallUrl = "https://github.com/inotia00/after_vanced/raw/vanced/api/v1"
+        baseInstallUrl = "https://github.com/sudhanshu947/YoutubePlusApi/raw/YTPlusApi/api/v1"
     }
 
     log(TAG, "Fetching using URL: $baseInstallUrl")
@@ -144,4 +144,4 @@ fun checkSHA256(sha256: String, updateFile: File): Boolean {
     }
 }
 
-const val baseUrl = "https://github.com/inotia00/after_vanced/raw/vanced/api/v1"
+const val baseUrl = "https://github.com/sudhanshu947/YoutubePlusApi/raw/YTPlusApi/api/v1"

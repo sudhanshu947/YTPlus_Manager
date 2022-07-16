@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.viewmodels
+package com.ytplus.manager.origin.ui.viewmodels
 
 import android.annotation.SuppressLint
 import android.content.ActivityNotFoundException
@@ -10,28 +10,28 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.adapter.LinkAdapter.Companion.TELEGRAM
-import com.vanced.manager.origin.model.ButtonTag
-import com.vanced.manager.origin.model.DataModel
-import com.vanced.manager.origin.model.RootDataModel
-import com.vanced.manager.origin.ui.dialogs.AppDownloadDialog
-import com.vanced.manager.origin.ui.dialogs.InstallationFilesDetectedDialog
-import com.vanced.manager.origin.ui.dialogs.MusicPreferencesDialog
-import com.vanced.manager.origin.ui.dialogs.VancedPreferencesDialog
-import com.vanced.manager.origin.utils.*
-import com.vanced.manager.origin.utils.AppUtils.log
-import com.vanced.manager.origin.utils.AppUtils.managerPkg
-import com.vanced.manager.origin.utils.AppUtils.microgPkg
-import com.vanced.manager.origin.utils.AppUtils.musicPkg
-import com.vanced.manager.origin.utils.AppUtils.musicRootPkg
-import com.vanced.manager.origin.utils.AppUtils.vancedPkg
-import com.vanced.manager.origin.utils.AppUtils.vancedRootPkg
-import com.vanced.manager.origin.utils.PackageHelper.apkExist
-import com.vanced.manager.origin.utils.PackageHelper.musicApkExists
-import com.vanced.manager.origin.utils.PackageHelper.uninstallApk
-import com.vanced.manager.origin.utils.PackageHelper.uninstallRootApk
-import com.vanced.manager.origin.utils.PackageHelper.vancedInstallFilesExist
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.adapter.LinkAdapter.Companion.TELEGRAM
+import com.ytplus.manager.origin.model.ButtonTag
+import com.ytplus.manager.origin.model.DataModel
+import com.ytplus.manager.origin.model.RootDataModel
+import com.ytplus.manager.origin.ui.dialogs.AppDownloadDialog
+import com.ytplus.manager.origin.ui.dialogs.InstallationFilesDetectedDialog
+import com.ytplus.manager.origin.ui.dialogs.MusicPreferencesDialog
+import com.ytplus.manager.origin.ui.dialogs.VancedPreferencesDialog
+import com.ytplus.manager.origin.utils.*
+import com.ytplus.manager.origin.utils.AppUtils.log
+import com.ytplus.manager.origin.utils.AppUtils.managerPkg
+import com.ytplus.manager.origin.utils.AppUtils.microgPkg
+import com.ytplus.manager.origin.utils.AppUtils.musicPkg
+import com.ytplus.manager.origin.utils.AppUtils.musicRootPkg
+import com.ytplus.manager.origin.utils.AppUtils.vancedPkg
+import com.ytplus.manager.origin.utils.AppUtils.vancedRootPkg
+import com.ytplus.manager.origin.utils.PackageHelper.apkExist
+import com.ytplus.manager.origin.utils.PackageHelper.musicApkExists
+import com.ytplus.manager.origin.utils.PackageHelper.uninstallApk
+import com.ytplus.manager.origin.utils.PackageHelper.uninstallRootApk
+import com.ytplus.manager.origin.utils.PackageHelper.vancedInstallFilesExist
 import kotlinx.coroutines.launch
 
 //TODO fix leak

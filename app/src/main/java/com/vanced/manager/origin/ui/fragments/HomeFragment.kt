@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.fragments
+package com.ytplus.manager.origin.ui.fragments
 
 import android.content.BroadcastReceiver
 import android.content.Context
@@ -15,19 +15,19 @@ import androidx.preference.PreferenceManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.android.flexbox.FlexboxLayoutManager
 import com.google.android.flexbox.JustifyContent
-import com.vanced.manager.origin.BuildConfig.VERSION_CODE
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.adapter.ExpandableAppListAdapter
-import com.vanced.manager.origin.adapter.LinkAdapter
-import com.vanced.manager.origin.core.ui.base.BindingFragment
-import com.vanced.manager.origin.core.ui.ext.showDialog
-import com.vanced.manager.origin.databinding.FragmentHomeBinding
-import com.vanced.manager.origin.ui.dialogs.AppInfoDialog
-import com.vanced.manager.origin.ui.dialogs.DialogContainer.installAlertBuilder
-import com.vanced.manager.origin.ui.viewmodels.HomeViewModel
-import com.vanced.manager.origin.ui.viewmodels.HomeViewModelFactory
-import com.vanced.manager.origin.utils.isFetching
-import com.vanced.manager.origin.utils.manager
+import com.ytplus.manager.origin.BuildConfig.VERSION_CODE
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.adapter.ExpandableAppListAdapter
+import com.ytplus.manager.origin.adapter.LinkAdapter
+import com.ytplus.manager.origin.core.ui.base.BindingFragment
+import com.ytplus.manager.origin.core.ui.ext.showDialog
+import com.ytplus.manager.origin.databinding.FragmentHomeBinding
+import com.ytplus.manager.origin.ui.dialogs.AppInfoDialog
+import com.ytplus.manager.origin.ui.dialogs.DialogContainer.installAlertBuilder
+import com.ytplus.manager.origin.ui.viewmodels.HomeViewModel
+import com.ytplus.manager.origin.ui.viewmodels.HomeViewModelFactory
+import com.ytplus.manager.origin.utils.isFetching
+import com.ytplus.manager.origin.utils.manager
 
 class HomeFragment : BindingFragment<FragmentHomeBinding>() {
 

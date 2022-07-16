@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.feature.home.data.dto
+package com.ytplus.manager.origin.feature.home.data.dto
 
 import com.squareup.moshi.Json
 import com.squareup.moshi.JsonClass

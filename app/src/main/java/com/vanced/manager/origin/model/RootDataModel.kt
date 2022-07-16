@@ -1,11 +1,11 @@
-package com.vanced.manager.origin.model
+package com.ytplus.manager.origin.model
 
 import android.content.Context
 import androidx.annotation.DrawableRes
 import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.LiveData
 import com.beust.klaxon.JsonObject
-import com.vanced.manager.origin.utils.PackageHelper
+import com.ytplus.manager.origin.utils.PackageHelper
 
 class RootDataModel(
     jsonObject: LiveData<JsonObject?>,

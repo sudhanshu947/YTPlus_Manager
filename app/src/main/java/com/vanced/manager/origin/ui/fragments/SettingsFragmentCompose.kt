@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.fragments
+package com.ytplus.manager.origin.ui.fragments
 
 //import android.os.Bundle
 //import android.view.LayoutInflater
@@ -7,10 +7,10 @@ package com.vanced.manager.origin.ui.fragments
 //import androidx.compose.foundation.lazy.LazyColumn
 //import androidx.compose.ui.platform.ComposeView
 //import androidx.fragment.app.Fragment
-//import com.vanced.manager.origin.R
-//import com.vanced.manager.origin.ui.compose.Preference
-//import com.vanced.manager.origin.ui.compose.PreferenceCategory
-//import com.vanced.manager.origin.ui.compose.SwitchPreference
+//import com.ytplus.manager.origin.R
+//import com.ytplus.manager.origin.ui.compose.Preference
+//import com.ytplus.manager.origin.ui.compose.PreferenceCategory
+//import com.ytplus.manager.origin.ui.compose.SwitchPreference
 //
 //class SettingsFragmentCompose : Fragment() {
 //

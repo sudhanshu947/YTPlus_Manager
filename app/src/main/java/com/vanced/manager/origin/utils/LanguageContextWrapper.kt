@@ -1,10 +1,10 @@
-package com.vanced.manager.origin.utils
+package com.ytplus.manager.origin.utils
 
 import android.content.Context
 import android.content.ContextWrapper
 import android.content.res.Configuration
 import android.content.res.Resources
-import com.vanced.manager.origin.utils.AppUtils.currentLocale
+import com.ytplus.manager.origin.utils.AppUtils.currentLocale
 import java.util.*
 
 class LanguageContextWrapper(base: Context?) : ContextWrapper(base) {

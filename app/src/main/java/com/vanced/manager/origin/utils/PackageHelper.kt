@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.utils
+package com.ytplus.manager.origin.utils
 
 import android.app.PendingIntent
 import android.content.Context
@@ -9,15 +9,15 @@ import android.content.pm.PackageManager
 import android.os.Build
 import com.topjohnwu.superuser.Shell
 import com.topjohnwu.superuser.io.SuFile
-import com.vanced.manager.origin.core.installer.AppInstallerService
-import com.vanced.manager.origin.core.installer.AppUninstallerService
-import com.vanced.manager.origin.utils.AppUtils.log
-import com.vanced.manager.origin.utils.AppUtils.musicRootPkg
-import com.vanced.manager.origin.utils.AppUtils.playStorePkg
-import com.vanced.manager.origin.utils.AppUtils.sendCloseDialog
-import com.vanced.manager.origin.utils.AppUtils.sendFailure
-import com.vanced.manager.origin.utils.AppUtils.sendRefresh
-import com.vanced.manager.origin.utils.AppUtils.vancedRootPkg
+import com.ytplus.manager.origin.core.installer.AppInstallerService
+import com.ytplus.manager.origin.core.installer.AppUninstallerService
+import com.ytplus.manager.origin.utils.AppUtils.log
+import com.ytplus.manager.origin.utils.AppUtils.musicRootPkg
+import com.ytplus.manager.origin.utils.AppUtils.playStorePkg
+import com.ytplus.manager.origin.utils.AppUtils.sendCloseDialog
+import com.ytplus.manager.origin.utils.AppUtils.sendFailure
+import com.ytplus.manager.origin.utils.AppUtils.sendRefresh
+import com.ytplus.manager.origin.utils.AppUtils.vancedRootPkg
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

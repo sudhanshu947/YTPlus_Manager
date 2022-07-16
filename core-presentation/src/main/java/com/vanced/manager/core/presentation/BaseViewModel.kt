@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.core.presentation
+package com.ytplus.manager.origin.core.presentation
 
 import androidx.lifecycle.ViewModel
 

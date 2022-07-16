@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.fragments
+package com.ytplus.manager.origin.ui.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,11 +7,11 @@ import android.widget.Toast
 import androidx.core.content.edit
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.adapter.SelectAppsAdapter
-import com.vanced.manager.origin.core.ui.base.BindingFragment
-import com.vanced.manager.origin.databinding.FragmentSelectAppsBinding
-import com.vanced.manager.origin.ui.WelcomeActivity
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.adapter.SelectAppsAdapter
+import com.ytplus.manager.origin.core.ui.base.BindingFragment
+import com.ytplus.manager.origin.databinding.FragmentSelectAppsBinding
+import com.ytplus.manager.origin.ui.WelcomeActivity
 
 class SelectAppsFragment : BindingFragment<FragmentSelectAppsBinding>() {
 

@@ -1,17 +1,17 @@
-package com.vanced.manager.origin.ui.dialogs
+package com.ytplus.manager.origin.ui.dialogs
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.core.downloader.MicrogDownloader.startMicrogInstall
-import com.vanced.manager.origin.core.downloader.MusicDownloader.startMusicInstall
-import com.vanced.manager.origin.core.downloader.VancedDownloader.startVancedInstall
-import com.vanced.manager.origin.core.ui.base.BindingBottomSheetDialogFragment
-import com.vanced.manager.origin.core.ui.ext.showDialog
-import com.vanced.manager.origin.databinding.DialogInstallationFilesDetectedBinding
-import com.vanced.manager.origin.utils.defPrefs
-import com.vanced.manager.origin.utils.managerVariant
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.core.downloader.MicrogDownloader.startMicrogInstall
+import com.ytplus.manager.origin.core.downloader.MusicDownloader.startMusicInstall
+import com.ytplus.manager.origin.core.downloader.VancedDownloader.startVancedInstall
+import com.ytplus.manager.origin.core.ui.base.BindingBottomSheetDialogFragment
+import com.ytplus.manager.origin.core.ui.ext.showDialog
+import com.ytplus.manager.origin.databinding.DialogInstallationFilesDetectedBinding
+import com.ytplus.manager.origin.utils.defPrefs
+import com.ytplus.manager.origin.utils.managerVariant
 
 class InstallationFilesDetectedDialog :
     BindingBottomSheetDialogFragment<DialogInstallationFilesDetectedBinding>() {

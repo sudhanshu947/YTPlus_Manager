@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.utils
+package com.ytplus.manager.origin.utils
 
 import android.content.Context
 import android.content.ContextWrapper
@@ -13,8 +13,8 @@ import com.google.android.material.progressindicator.LinearProgressIndicator
 import com.google.android.material.radiobutton.MaterialRadioButton
 import com.topjohnwu.superuser.io.SuFile
 import com.topjohnwu.superuser.io.SuFileOutputStream
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.utils.AppUtils.log
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.utils.AppUtils.log
 import java.util.*
 
 val RadioGroup.checkedButtonTag: String?

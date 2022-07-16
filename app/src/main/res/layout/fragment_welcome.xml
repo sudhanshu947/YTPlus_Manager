@@ -14,7 +14,7 @@
         android:textAlignment="center"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <com.vanced.manager.origin.ui.core.ThemedMaterialButton
+    <com.ytplus.manager.origin.ui.core.ThemedMaterialButton
         android:id="@+id/welcome_get_started"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

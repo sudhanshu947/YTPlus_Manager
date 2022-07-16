@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.utils
+package com.ytplus.manager.origin.utils
 
 import com.beust.klaxon.JsonArray
 import com.beust.klaxon.JsonObject

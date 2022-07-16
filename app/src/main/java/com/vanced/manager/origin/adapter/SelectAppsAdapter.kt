@@ -1,15 +1,15 @@
-package com.vanced.manager.origin.adapter
+package com.ytplus.manager.origin.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import androidx.recyclerview.widget.RecyclerView
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.databinding.ViewAppCheckboxBinding
-import com.vanced.manager.origin.model.SelectAppModel
-import com.vanced.manager.origin.utils.enableMusic
-import com.vanced.manager.origin.utils.enableVanced
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.databinding.ViewAppCheckboxBinding
+import com.ytplus.manager.origin.model.SelectAppModel
+import com.ytplus.manager.origin.utils.enableMusic
+import com.ytplus.manager.origin.utils.enableVanced
 
 class SelectAppsAdapter(private val context: Context) :
     RecyclerView.Adapter<SelectAppsAdapter.SelectAppsViewHolder>() {

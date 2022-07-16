@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.library.network.providers
+package com.ytplus.manager.origin.library.network.providers
 
 import com.squareup.moshi.Moshi
 import okhttp3.OkHttpClient

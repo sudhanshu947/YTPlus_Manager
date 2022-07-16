@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.dialogs
+package com.ytplus.manager.origin.ui.dialogs
 
 import android.annotation.SuppressLint
 import android.content.BroadcastReceiver
@@ -12,15 +12,15 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.core.view.isVisible
 import androidx.localbroadcastmanager.content.LocalBroadcastManager
-import com.vanced.manager.origin.BuildConfig.VERSION_CODE
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.core.ui.base.BindingDialogFragment
-import com.vanced.manager.origin.databinding.DialogManagerUpdateBinding
-import com.vanced.manager.origin.utils.DownloadHelper.downloadManager
-import com.vanced.manager.origin.utils.applyAccent
-import com.vanced.manager.origin.utils.currentDownload
-import com.vanced.manager.origin.utils.downloadProgress
-import com.vanced.manager.origin.utils.manager
+import com.ytplus.manager.origin.BuildConfig.VERSION_CODE
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.core.ui.base.BindingDialogFragment
+import com.ytplus.manager.origin.databinding.DialogManagerUpdateBinding
+import com.ytplus.manager.origin.utils.DownloadHelper.downloadManager
+import com.ytplus.manager.origin.utils.applyAccent
+import com.ytplus.manager.origin.utils.currentDownload
+import com.ytplus.manager.origin.utils.downloadProgress
+import com.ytplus.manager.origin.utils.manager
 
 class ManagerUpdateDialog : BindingDialogFragment<DialogManagerUpdateBinding>() {
 

@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.core.mvi
+package com.ytplus.manager.origin.core.mvi
 
 interface MviFlowStore<State, Action, Modification, SideEffect> {
 

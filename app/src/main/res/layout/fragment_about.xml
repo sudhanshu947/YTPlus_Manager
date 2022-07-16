@@ -62,7 +62,7 @@
                 android:layout_height="match_parent"
                 android:orientation="vertical">
 
-                <com.vanced.manager.origin.ui.core.ThemedTextView
+                <com.ytplus.manager.origin.ui.core.ThemedTextView
                     style="@style/CardTextHeader"
                     android:text="@string/vanced_team"
                     app:layout_constraintStart_toStartOf="parent"
@@ -91,7 +91,7 @@
                 android:layout_height="match_parent"
                 android:orientation="vertical">
 
-                <com.vanced.manager.origin.ui.core.ThemedTextView
+                <com.ytplus.manager.origin.ui.core.ThemedTextView
                     style="@style/CardTextHeader"
                     android:text="@string/manager_dev"
                     app:layout_constraintStart_toStartOf="parent"
@@ -120,7 +120,7 @@
                 android:layout_height="match_parent"
                 android:orientation="vertical">
 
-                <com.vanced.manager.origin.ui.core.ThemedTextView
+                <com.ytplus.manager.origin.ui.core.ThemedTextView
                     style="@style/CardTextHeader"
                     android:text="@string/other_contributors"
                     app:layout_constraintStart_toStartOf="parent"
@@ -149,7 +149,7 @@
                 android:layout_height="match_parent"
                 android:orientation="vertical">
 
-                <com.vanced.manager.origin.ui.core.ThemedTextView
+                <com.ytplus.manager.origin.ui.core.ThemedTextView
                     android:id="@+id/about_card_vancedTeam"
                     style="@style/CardTextHeader"
                     android:text="@string/sources"

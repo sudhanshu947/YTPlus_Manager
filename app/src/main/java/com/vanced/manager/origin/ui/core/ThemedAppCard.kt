@@ -1,10 +1,10 @@
-package com.vanced.manager.origin.ui.core
+package com.ytplus.manager.origin.ui.core
 
 import android.content.Context
 import android.content.res.ColorStateList
 import android.util.AttributeSet
 import com.google.android.material.card.MaterialCardView
-import com.vanced.manager.origin.utils.accentColor
+import com.ytplus.manager.origin.utils.accentColor
 
 class ThemedAppCard @JvmOverloads constructor(
     context: Context,

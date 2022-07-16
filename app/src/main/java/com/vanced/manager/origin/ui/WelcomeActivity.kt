@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui
+package com.ytplus.manager.origin.ui
 
 import android.animation.ValueAnimator
 import android.os.Bundle
@@ -6,8 +6,8 @@ import android.util.LayoutDirection
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.animation.addListener
 import androidx.viewpager2.widget.ViewPager2
-import com.vanced.manager.origin.adapter.WelcomePageAdapter
-import com.vanced.manager.origin.databinding.ActivityWelcomeBinding
+import com.ytplus.manager.origin.adapter.WelcomePageAdapter
+import com.ytplus.manager.origin.databinding.ActivityWelcomeBinding
 import kotlin.math.abs
 
 class WelcomeActivity : AppCompatActivity() {
