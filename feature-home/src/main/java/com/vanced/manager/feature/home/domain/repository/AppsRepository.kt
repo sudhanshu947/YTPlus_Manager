@@ -1,6 +1,6 @@
-package com.vanced.manager.origin.feature.home.domain.repository
+package com.ytplus.manager.origin.feature.home.domain.repository
 
-import com.vanced.manager.origin.feature.home.domain.entity.AppInfo
+import com.ytplus.manager.origin.feature.home.domain.entity.AppInfo
 
 interface AppsRepository {
 

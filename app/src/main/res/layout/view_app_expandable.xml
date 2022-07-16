@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.vanced.manager.origin.ui.core.ThemedAppCard
+<com.ytplus.manager.origin.ui.core.ThemedAppCard
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -40,12 +40,12 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
-                <com.vanced.manager.origin.ui.core.ThemedTextView
+                <com.ytplus.manager.origin.ui.core.ThemedTextView
                     android:id="@+id/app_version_latest_text"
                     style="@style/AppVersionText"
                     android:text="@string/latest" />
 
-                <com.vanced.manager.origin.ui.core.ThemedTextView
+                <com.ytplus.manager.origin.ui.core.ThemedTextView
                     android:id="@+id/app_version_latest"
                     style="@style/AppVersionTextNumber"
                     tools:text="16.XX.XX" />
@@ -58,12 +58,12 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
-                <com.vanced.manager.origin.ui.core.ThemedTextView
+                <com.ytplus.manager.origin.ui.core.ThemedTextView
                     android:id="@+id/app_version_installed_text"
                     style="@style/AppVersionText"
                     android:text="@string/version_installed"/>
 
-                <com.vanced.manager.origin.ui.core.ThemedTextView
+                <com.ytplus.manager.origin.ui.core.ThemedTextView
                     android:id="@+id/app_version_installed"
                     style="@style/AppVersionTextNumber"
                     android:textSize="12sp"
@@ -83,25 +83,25 @@
             app:layout_constraintBottom_toBottomOf="parent"
             android:layout_marginStart="16dp">
 
-            <com.vanced.manager.origin.ui.core.ThemedIconButton
+            <com.ytplus.manager.origin.ui.core.ThemedIconButton
                 android:id="@+id/app_info"
                 style="@style/AppActionButton"
                 app:icon="@drawable/ic_app_info"
                 android:contentDescription="@string/accessibility_info"/>
 
-            <com.vanced.manager.origin.ui.core.ThemedIconButton
+            <com.ytplus.manager.origin.ui.core.ThemedIconButton
                 android:id="@+id/app_uninstall"
                 style="@style/AppActionButton"
                 app:icon="@drawable/ic_app_uninstall"
                 android:contentDescription="@string/accessibility_uninstall"/>
 
-            <com.vanced.manager.origin.ui.core.ThemedIconButton
+            <com.ytplus.manager.origin.ui.core.ThemedIconButton
                 android:id="@+id/app_launch"
                 style="@style/AppActionButton"
                 app:icon="@drawable/ic_baseline_launch_24"
                 android:contentDescription="@string/accessibility_launch"/>
 
-            <com.vanced.manager.origin.ui.core.ThemedIconButton
+            <com.ytplus.manager.origin.ui.core.ThemedIconButton
                 android:id="@+id/app_download"
                 style="@style/AppActionButton"
                 app:icon="@drawable/ic_app_download"
@@ -178,5 +178,5 @@
 
     </com.google.android.material.card.MaterialCardView>
 
-</com.vanced.manager.origin.ui.core.ThemedAppCard>
+</com.ytplus.manager.origin.ui.core.ThemedAppCard>
 

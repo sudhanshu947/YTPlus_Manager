@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.core.mvi.subject
+package com.ytplus.manager.origin.core.mvi.subject
 
 // "single events"
 sealed class SideEffect {

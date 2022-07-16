@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.dialogs
+package com.ytplus.manager.origin.ui.dialogs
 
 import android.graphics.Color
 import android.graphics.drawable.ColorDrawable
@@ -6,9 +6,9 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.annotation.DrawableRes
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.core.ui.base.BindingDialogFragment
-import com.vanced.manager.origin.databinding.DialogAppInfoBinding
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.core.ui.base.BindingDialogFragment
+import com.ytplus.manager.origin.databinding.DialogAppInfoBinding
 
 class AppInfoDialog : BindingDialogFragment<DialogAppInfoBinding>() {
 

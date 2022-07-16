@@ -11,7 +11,7 @@ android {
     compileSdk = 31
 
     defaultConfig {
-        applicationId = "com.vanced.manager.origin"
+        applicationId = "com.ytplus.manager.origin"
         minSdk = 21
         targetSdk = 31
         versionCode = 220712

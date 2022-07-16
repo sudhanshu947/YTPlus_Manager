@@ -20,21 +20,21 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
 
-                <com.vanced.manager.origin.ui.core.ThemedMaterialRadioButton
+                <com.ytplus.manager.origin.ui.core.ThemedMaterialRadioButton
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:tag="System Default"
                     android:text="@string/system_default"
                     android:textSize="18sp" />
 
-                <com.vanced.manager.origin.ui.core.ThemedMaterialRadioButton
+                <com.ytplus.manager.origin.ui.core.ThemedMaterialRadioButton
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:tag="Light"
                     android:text="@string/theme_light"
                     android:textSize="18sp" />
 
-                <com.vanced.manager.origin.ui.core.ThemedMaterialRadioButton
+                <com.ytplus.manager.origin.ui.core.ThemedMaterialRadioButton
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:tag="Dark"
@@ -44,7 +44,7 @@
 
         </androidx.core.widget.NestedScrollView>
 
-        <com.vanced.manager.origin.ui.core.ThemedMaterialButton
+        <com.ytplus.manager.origin.ui.core.ThemedMaterialButton
             android:id="@+id/theme_save"
             android:text="@string/save"
             style="@style/BottomDialogButtonStyle" />

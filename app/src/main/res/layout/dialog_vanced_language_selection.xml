@@ -29,7 +29,7 @@
                 android:orientation="vertical" />
         </androidx.core.widget.NestedScrollView>
 
-        <com.vanced.manager.origin.ui.core.ThemedMaterialButton
+        <com.ytplus.manager.origin.ui.core.ThemedMaterialButton
             android:id="@+id/vanced_install_finish"
             style="@style/BottomDialogButtonStyle"
             android:text="@string/save" />

@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.model
+package com.ytplus.manager.origin.model
 
 import android.content.Context
 import android.graphics.drawable.Drawable
@@ -9,8 +9,8 @@ import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import com.beust.klaxon.JsonObject
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.utils.PackageHelper.isPackageInstalled
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.utils.PackageHelper.isPackageInstalled
 
 open class DataModel(
     private val jsonObject: LiveData<JsonObject?>,

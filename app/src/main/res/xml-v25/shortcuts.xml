@@ -9,9 +9,9 @@
         android:shortcutShortLabel="@string/title_settings">
 
         <intent
-            android:action="com.vanced.manager.origin.OPEN_SETTINGS"
-            android:targetClass="com.vanced.manager.origin.ui.MainActivity"
-            android:targetPackage="com.vanced.manager.origin"
+            android:action="com.ytplus.manager.origin.OPEN_SETTINGS"
+            android:targetClass="com.ytplus.manager.origin.ui.MainActivity"
+            android:targetPackage="com.ytplus.manager.origin"
             android:data="vncdmngr://open_settings_fragment"/>
 
     </shortcut>
@@ -23,9 +23,9 @@
         android:shortcutShortLabel="@string/title_about">
 
         <intent
-            android:action="com.vanced.manager.origin.OPEN_INSTALL"
-            android:targetClass="com.vanced.manager.origin.ui.MainActivity"
-            android:targetPackage="com.vanced.manager.origin"
+            android:action="com.ytplus.manager.origin.OPEN_INSTALL"
+            android:targetClass="com.ytplus.manager.origin.ui.MainActivity"
+            android:targetPackage="com.ytplus.manager.origin"
             android:data="vncdmngr://open_about_fragment"/>
 
     </shortcut>

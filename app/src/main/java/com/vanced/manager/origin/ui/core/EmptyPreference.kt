@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.core
+package com.ytplus.manager.origin.ui.core
 
 import android.content.Context
 import android.util.AttributeSet
@@ -6,8 +6,8 @@ import android.view.LayoutInflater
 import android.widget.FrameLayout
 import androidx.core.view.isGone
 import androidx.core.view.isVisible
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.databinding.ViewPreferenceBinding
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.databinding.ViewPreferenceBinding
 
 class EmptyPreference @JvmOverloads constructor(
     context: Context,

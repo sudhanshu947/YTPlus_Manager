@@ -1,11 +1,11 @@
-package com.vanced.manager.origin.utils
+package com.ytplus.manager.origin.utils
 
 import android.content.Context
 import android.content.res.Resources
 import android.os.Build
 import android.os.LocaleList
 import androidx.annotation.RequiresApi
-import com.vanced.manager.origin.R
+import com.ytplus.manager.origin.R
 import java.util.*
 
 fun getLanguageFormat(context: Context, language: String): String {

@@ -23,7 +23,7 @@
 
         </androidx.core.widget.NestedScrollView>
 
-        <com.vanced.manager.origin.ui.core.ThemedMaterialButton
+        <com.ytplus.manager.origin.ui.core.ThemedMaterialButton
             android:id="@+id/dialog_save"
             android:text="@string/save"
             style="@style/BottomDialogButtonStyle" />

@@ -1,10 +1,10 @@
-package com.vanced.manager.origin.core.downloader
+package com.ytplus.manager.origin.core.downloader
 
 import android.content.Context
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.utils.*
-import com.vanced.manager.origin.utils.DownloadHelper.download
-import com.vanced.manager.origin.utils.PackageHelper.install
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.utils.*
+import com.ytplus.manager.origin.utils.DownloadHelper.download
+import com.ytplus.manager.origin.utils.PackageHelper.install
 
 object MicrogDownloader {
 

@@ -36,7 +36,7 @@
 
         </RelativeLayout>
 
-        <com.vanced.manager.origin.ui.core.ThemedMaterialButton
+        <com.ytplus.manager.origin.ui.core.ThemedMaterialButton
             android:id="@+id/music_install"
             android:text="@string/install"
             style="@style/BottomDialogButtonStyle" />

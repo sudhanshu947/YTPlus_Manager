@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.viewmodels
+package com.ytplus.manager.origin.ui.viewmodels
 
 import androidx.fragment.app.FragmentActivity
 import androidx.lifecycle.ViewModel

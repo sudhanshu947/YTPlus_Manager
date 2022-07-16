@@ -1,13 +1,13 @@
-package com.vanced.manager.origin.adapter
+package com.ytplus.manager.origin.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.databinding.ViewNotificationSettingBinding
-import com.vanced.manager.origin.model.NotifModel
-import com.vanced.manager.origin.utils.defPrefs
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.databinding.ViewNotificationSettingBinding
+import com.ytplus.manager.origin.model.NotifModel
+import com.ytplus.manager.origin.utils.defPrefs
 
 class GetNotifAdapter(private val context: Context) :
     RecyclerView.Adapter<GetNotifAdapter.GetNotifViewHolder>() {

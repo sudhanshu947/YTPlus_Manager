@@ -1,12 +1,12 @@
-package com.vanced.manager.origin.core
+package com.ytplus.manager.origin.core
 
 import android.app.Application
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import com.topjohnwu.superuser.Shell
-import com.vanced.manager.origin.BuildConfig
-import com.vanced.manager.origin.utils.loadJson
-import com.vanced.manager.origin.utils.managerAccent
-import com.vanced.manager.origin.utils.mutableAccentColor
+import com.ytplus.manager.origin.BuildConfig
+import com.ytplus.manager.origin.utils.loadJson
+import com.ytplus.manager.origin.utils.managerAccent
+import com.ytplus.manager.origin.utils.mutableAccentColor
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.SupervisorJob

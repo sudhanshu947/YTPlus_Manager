@@ -1,19 +1,19 @@
-package com.vanced.manager.origin.ui.dialogs
+package com.ytplus.manager.origin.ui.dialogs
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.Toast
 import androidx.core.content.edit
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.core.ui.base.BindingDialogFragment
-import com.vanced.manager.origin.databinding.DialogServicedTimerBinding
-import com.vanced.manager.origin.utils.PackageHelper
-import com.vanced.manager.origin.utils.PackageHelper.getPackageDir
-import com.vanced.manager.origin.utils.PackageHelper.getPkgNameRoot
-import com.vanced.manager.origin.utils.PackageHelper.scriptExists
-import com.vanced.manager.origin.utils.defPrefs
-import com.vanced.manager.origin.utils.writeServiceDScript
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.core.ui.base.BindingDialogFragment
+import com.ytplus.manager.origin.databinding.DialogServicedTimerBinding
+import com.ytplus.manager.origin.utils.PackageHelper
+import com.ytplus.manager.origin.utils.PackageHelper.getPackageDir
+import com.ytplus.manager.origin.utils.PackageHelper.getPkgNameRoot
+import com.ytplus.manager.origin.utils.PackageHelper.scriptExists
+import com.ytplus.manager.origin.utils.defPrefs
+import com.ytplus.manager.origin.utils.writeServiceDScript
 import java.io.IOException
 import java.util.*
 

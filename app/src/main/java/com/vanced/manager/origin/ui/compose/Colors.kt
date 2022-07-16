@@ -1,2 +1,2 @@
-package com.vanced.manager.origin.ui.compose
+package com.ytplus.manager.origin.ui.compose
 

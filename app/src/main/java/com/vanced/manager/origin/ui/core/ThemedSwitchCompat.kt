@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.core
+package com.ytplus.manager.origin.ui.core
 
 import android.content.Context
 import android.content.res.ColorStateList
@@ -7,9 +7,9 @@ import android.util.AttributeSet
 import androidx.appcompat.widget.SwitchCompat
 import androidx.core.graphics.ColorUtils
 import androidx.core.graphics.drawable.DrawableCompat
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.utils.accentColor
-import com.vanced.manager.origin.utils.lifecycleOwner
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.utils.accentColor
+import com.ytplus.manager.origin.utils.lifecycleOwner
 
 class ThemedSwitchCompat @JvmOverloads constructor(
     context: Context,

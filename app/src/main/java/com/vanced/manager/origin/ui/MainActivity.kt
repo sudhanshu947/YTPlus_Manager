@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui
+package com.ytplus.manager.origin.ui
 
 import android.content.Context
 import android.content.Intent
@@ -12,18 +12,18 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupWithNavController
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
-import com.vanced.manager.origin.BuildConfig.VERSION_CODE
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.databinding.ActivityMainBinding
-import com.vanced.manager.origin.ui.dialogs.DialogContainer
-import com.vanced.manager.origin.ui.dialogs.ManagerUpdateDialog
-import com.vanced.manager.origin.ui.dialogs.URLChangeDialog
-import com.vanced.manager.origin.ui.fragments.HomeFragmentDirections
-import com.vanced.manager.origin.ui.fragments.SettingsFragmentDirections
-import com.vanced.manager.origin.utils.*
-import com.vanced.manager.origin.utils.AppUtils.currentLocale
-import com.vanced.manager.origin.utils.AppUtils.log
-import com.vanced.manager.origin.utils.AppUtils.vancedRootPkg
+import com.ytplus.manager.origin.BuildConfig.VERSION_CODE
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.databinding.ActivityMainBinding
+import com.ytplus.manager.origin.ui.dialogs.DialogContainer
+import com.ytplus.manager.origin.ui.dialogs.ManagerUpdateDialog
+import com.ytplus.manager.origin.ui.dialogs.URLChangeDialog
+import com.ytplus.manager.origin.ui.fragments.HomeFragmentDirections
+import com.ytplus.manager.origin.ui.fragments.SettingsFragmentDirections
+import com.ytplus.manager.origin.utils.*
+import com.ytplus.manager.origin.utils.AppUtils.currentLocale
+import com.ytplus.manager.origin.utils.AppUtils.log
+import com.ytplus.manager.origin.utils.AppUtils.vancedRootPkg
 
 class MainActivity : AppCompatActivity() {
 

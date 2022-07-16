@@ -1,13 +1,13 @@
-package com.vanced.manager.origin.core.installer
+package com.ytplus.manager.origin.core.installer
 
 import android.app.Service
 import android.content.Intent
 import android.content.pm.PackageInstaller
 import android.os.IBinder
-import com.vanced.manager.origin.utils.AppUtils.log
-import com.vanced.manager.origin.utils.AppUtils.sendCloseDialog
-import com.vanced.manager.origin.utils.AppUtils.sendFailure
-import com.vanced.manager.origin.utils.AppUtils.sendRefresh
+import com.ytplus.manager.origin.utils.AppUtils.log
+import com.ytplus.manager.origin.utils.AppUtils.sendCloseDialog
+import com.ytplus.manager.origin.utils.AppUtils.sendFailure
+import com.ytplus.manager.origin.utils.AppUtils.sendRefresh
 
 class AppInstallerService : Service() {
 

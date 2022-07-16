@@ -1,8 +1,8 @@
-package com.vanced.manager.origin.feature.home.data.datasource
+package com.ytplus.manager.origin.feature.home.data.datasource
 
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory
-import com.vanced.manager.origin.feature.home.data.api.AppsApi
+import com.ytplus.manager.origin.feature.home.data.api.AppsApi
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 

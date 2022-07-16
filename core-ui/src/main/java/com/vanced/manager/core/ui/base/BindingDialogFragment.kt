@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.core.ui.base
+package com.ytplus.manager.origin.core.ui.base
 
 import android.os.Bundle
 import android.view.LayoutInflater

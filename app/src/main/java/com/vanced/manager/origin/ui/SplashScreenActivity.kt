@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui
+package com.ytplus.manager.origin.ui
 
 import android.content.Intent
 import android.os.Bundle

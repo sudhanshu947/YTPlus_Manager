@@ -1,13 +1,13 @@
-package com.vanced.manager.origin.ui.dialogs
+package com.ytplus.manager.origin.ui.dialogs
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.core.ui.base.BindingBottomSheetDialogFragment
-import com.vanced.manager.origin.core.ui.ext.showDialog
-import com.vanced.manager.origin.databinding.DialogVancedPreferencesBinding
-import com.vanced.manager.origin.utils.*
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.core.ui.base.BindingBottomSheetDialogFragment
+import com.ytplus.manager.origin.core.ui.ext.showDialog
+import com.ytplus.manager.origin.databinding.DialogVancedPreferencesBinding
+import com.ytplus.manager.origin.utils.*
 import java.util.*
 
 class VancedPreferencesDialog : BindingBottomSheetDialogFragment<DialogVancedPreferencesBinding>() {

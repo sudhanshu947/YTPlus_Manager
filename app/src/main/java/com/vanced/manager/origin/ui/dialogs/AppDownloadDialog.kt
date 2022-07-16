@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.dialogs
+package com.ytplus.manager.origin.ui.dialogs
 
 import android.annotation.SuppressLint
 import android.content.BroadcastReceiver
@@ -12,13 +12,13 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.core.view.isVisible
 import androidx.localbroadcastmanager.content.LocalBroadcastManager
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.core.downloader.MicrogDownloader.downloadMicrog
-import com.vanced.manager.origin.core.downloader.MusicDownloader.downloadMusic
-import com.vanced.manager.origin.core.downloader.VancedDownloader.downloadVanced
-import com.vanced.manager.origin.core.ui.base.BindingDialogFragment
-import com.vanced.manager.origin.databinding.DialogAppDownloadBinding
-import com.vanced.manager.origin.utils.*
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.core.downloader.MicrogDownloader.downloadMicrog
+import com.ytplus.manager.origin.core.downloader.MusicDownloader.downloadMusic
+import com.ytplus.manager.origin.core.downloader.VancedDownloader.downloadVanced
+import com.ytplus.manager.origin.core.ui.base.BindingDialogFragment
+import com.ytplus.manager.origin.databinding.DialogAppDownloadBinding
+import com.ytplus.manager.origin.utils.*
 
 class AppDownloadDialog : BindingDialogFragment<DialogAppDownloadBinding>() {
 

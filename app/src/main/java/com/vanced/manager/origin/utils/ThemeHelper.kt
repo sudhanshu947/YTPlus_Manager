@@ -1,10 +1,10 @@
-package com.vanced.manager.origin.utils
+package com.ytplus.manager.origin.utils
 
 import android.app.Activity
 import android.content.res.Configuration
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
-import com.vanced.manager.origin.R
+import com.ytplus.manager.origin.R
 
 const val defAccentColor: Int = -13732865
 const val LIGHT = "Light"

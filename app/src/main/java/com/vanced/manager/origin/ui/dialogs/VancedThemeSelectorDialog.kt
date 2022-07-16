@@ -1,19 +1,19 @@
-package com.vanced.manager.origin.ui.dialogs
+package com.ytplus.manager.origin.ui.dialogs
 
 import android.content.Context
 import android.content.DialogInterface
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.core.ui.base.BindingBottomSheetDialogFragment
-import com.vanced.manager.origin.core.ui.ext.showDialog
-import com.vanced.manager.origin.databinding.DialogBottomRadioButtonBinding
-import com.vanced.manager.origin.ui.core.ThemedMaterialRadioButton
-import com.vanced.manager.origin.utils.checkedButtonTag
-import com.vanced.manager.origin.utils.convertToAppTheme
-import com.vanced.manager.origin.utils.theme
-import com.vanced.manager.origin.utils.vanced
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.core.ui.base.BindingBottomSheetDialogFragment
+import com.ytplus.manager.origin.core.ui.ext.showDialog
+import com.ytplus.manager.origin.databinding.DialogBottomRadioButtonBinding
+import com.ytplus.manager.origin.ui.core.ThemedMaterialRadioButton
+import com.ytplus.manager.origin.utils.checkedButtonTag
+import com.ytplus.manager.origin.utils.convertToAppTheme
+import com.ytplus.manager.origin.utils.theme
+import com.ytplus.manager.origin.utils.vanced
 
 class VancedThemeSelectorDialog :
     BindingBottomSheetDialogFragment<DialogBottomRadioButtonBinding>() {

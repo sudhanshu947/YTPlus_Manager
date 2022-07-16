@@ -1,16 +1,16 @@
-package com.vanced.manager.origin.adapter
+package com.ytplus.manager.origin.adapter
 
 /*import android.content.Context
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.appcompat.content.res.AppCompatResources
 import androidx.recyclerview.widget.RecyclerView
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.databinding.ViewSponsorBinding
-import com.vanced.manager.origin.model.SponsorModel
-import com.vanced.manager.origin.ui.viewmodels.HomeViewModel
-import com.vanced.manager.origin.utils.LIGHT
-import com.vanced.manager.origin.utils.currentTheme
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.databinding.ViewSponsorBinding
+import com.ytplus.manager.origin.model.SponsorModel
+import com.ytplus.manager.origin.ui.viewmodels.HomeViewModel
+import com.ytplus.manager.origin.utils.LIGHT
+import com.ytplus.manager.origin.utils.currentTheme
 
 class SponsorAdapter(
     private val context: Context,

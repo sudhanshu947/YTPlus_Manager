@@ -12,13 +12,13 @@
         android:paddingHorizontal="8dp"
         android:paddingVertical="12dp">
 
-        <com.vanced.manager.origin.ui.core.PreferenceCategory
+        <com.ytplus.manager.origin.ui.core.PreferenceCategory
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/category_background"
             app:category_title="@string/category_behaviour">
 
-            <com.vanced.manager.origin.ui.core.PreferenceSwitch
+            <com.ytplus.manager.origin.ui.core.PreferenceSwitch
                 android:id="@+id/use_custom_tabs"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -35,13 +35,13 @@
                 tools:itemCount="3"
                 tools:listitem="@layout/view_preference_switch" />
 
-            <com.vanced.manager.origin.ui.core.EmptyPreference
+            <com.ytplus.manager.origin.ui.core.EmptyPreference
                 android:id="@+id/manager_variant"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:preference_title="@string/variant" />
 
-            <com.vanced.manager.origin.ui.core.EmptyPreference
+            <com.ytplus.manager.origin.ui.core.EmptyPreference
                 android:id="@+id/serviced_timer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -49,46 +49,46 @@
                 app:preference_summary="@string/script_sleep_timer_description"
                 android:visibility="gone"/>
 
-            <com.vanced.manager.origin.ui.core.EmptyPreference
+            <com.ytplus.manager.origin.ui.core.EmptyPreference
                 android:id="@+id/clearFiles"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:preference_title="@string/clear_files" />
 
-        </com.vanced.manager.origin.ui.core.PreferenceCategory>
+        </com.ytplus.manager.origin.ui.core.PreferenceCategory>
 
-        <com.vanced.manager.origin.ui.core.PreferenceCategory
+        <com.ytplus.manager.origin.ui.core.PreferenceCategory
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:background="@drawable/category_background"
             app:category_title="@string/category_appearance">
 
-            <com.vanced.manager.origin.ui.core.EmptyPreference
+            <com.ytplus.manager.origin.ui.core.EmptyPreference
                 android:id="@+id/manager_theme"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:preference_title="@string/theme" />
 
-            <com.vanced.manager.origin.ui.core.EmptyPreference
+            <com.ytplus.manager.origin.ui.core.EmptyPreference
                 android:id="@+id/manager_accent_color"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:preference_title="@string/accent_color" />
 
-            <com.vanced.manager.origin.ui.core.EmptyPreference
+            <com.ytplus.manager.origin.ui.core.EmptyPreference
                 android:id="@+id/manager_language"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:preference_title="@string/language_title" />
 
-            <com.vanced.manager.origin.ui.core.EmptyPreference
+            <com.ytplus.manager.origin.ui.core.EmptyPreference
                 android:id="@+id/select_apps"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:preference_title="@string/select_apps" />
 
-        </com.vanced.manager.origin.ui.core.PreferenceCategory>
+        </com.ytplus.manager.origin.ui.core.PreferenceCategory>
 
     </LinearLayout>
 

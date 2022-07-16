@@ -1,14 +1,14 @@
-package com.vanced.manager.origin.ui.fragments
+package com.ytplus.manager.origin.ui.fragments
 
 import android.os.Bundle
 import android.text.TextUtils
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.Toast
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.core.ui.base.BindingFragment
-import com.vanced.manager.origin.databinding.FragmentLogBinding
-import com.vanced.manager.origin.utils.AppUtils.logs
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.core.ui.base.BindingFragment
+import com.ytplus.manager.origin.databinding.FragmentLogBinding
+import com.ytplus.manager.origin.utils.AppUtils.logs
 import java.io.File
 import java.io.FileWriter
 import java.io.IOException

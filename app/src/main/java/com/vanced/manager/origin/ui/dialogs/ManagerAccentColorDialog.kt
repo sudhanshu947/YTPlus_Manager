@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.dialogs
+package com.ytplus.manager.origin.ui.dialogs
 
 import android.content.DialogInterface
 import android.graphics.Color
@@ -12,11 +12,11 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import com.madrapps.pikolo.listeners.OnColorSelectionListener
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.core.ui.base.BindingDialogFragment
-import com.vanced.manager.origin.databinding.DialogManagerAccentColorBinding
-import com.vanced.manager.origin.utils.*
-import com.vanced.manager.origin.utils.AppUtils.log
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.core.ui.base.BindingDialogFragment
+import com.ytplus.manager.origin.databinding.DialogManagerAccentColorBinding
+import com.ytplus.manager.origin.utils.*
+import com.ytplus.manager.origin.utils.AppUtils.log
 
 class ManagerAccentColorDialog : BindingDialogFragment<DialogManagerAccentColorBinding>() {
 

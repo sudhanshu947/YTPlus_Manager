@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.core
+package com.ytplus.manager.origin.ui.core
 
 import android.content.Context
 import android.content.SharedPreferences
@@ -7,9 +7,9 @@ import android.view.LayoutInflater
 import android.widget.CompoundButton
 import android.widget.FrameLayout
 import androidx.core.content.edit
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.databinding.ViewPreferenceSwitchBinding
-import com.vanced.manager.origin.utils.defPrefs
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.databinding.ViewPreferenceSwitchBinding
+import com.ytplus.manager.origin.utils.defPrefs
 
 class PreferenceSwitch @JvmOverloads constructor(
     context: Context,

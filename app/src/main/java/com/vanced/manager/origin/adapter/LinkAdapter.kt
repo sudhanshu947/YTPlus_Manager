@@ -1,14 +1,14 @@
-package com.vanced.manager.origin.adapter
+package com.ytplus.manager.origin.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.appcompat.content.res.AppCompatResources
 import androidx.recyclerview.widget.RecyclerView
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.databinding.ViewSocialLinkBinding
-import com.vanced.manager.origin.model.LinkModel
-import com.vanced.manager.origin.ui.viewmodels.HomeViewModel
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.databinding.ViewSocialLinkBinding
+import com.ytplus.manager.origin.model.LinkModel
+import com.ytplus.manager.origin.ui.viewmodels.HomeViewModel
 
 class LinkAdapter(
     private val context: Context,
@@ -52,8 +52,8 @@ class LinkAdapter(
     override fun getItemCount(): Int = links.size
 
     companion object {
-        const val GITHUB = "https://github.com/inotia00/VancedManager_v2"
-        const val TELEGRAM = "https://t.me/vanced_mod_archive"
+        const val GITHUB = "https://github.com/sudhanshu947/YTPlus_Manager"
+        const val TELEGRAM = "https://t.me/tgyoutubeplus"
     }
 
 }

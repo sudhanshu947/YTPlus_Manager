@@ -1,9 +1,9 @@
-package com.vanced.manager.origin.feature.home.presentation
+package com.ytplus.manager.origin.feature.home.presentation
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.vanced.manager.origin.feature.home.domain.entity.AppInfo
-import com.vanced.manager.origin.feature.home.domain.usecase.GetAppsInfoUseCase
+import com.ytplus.manager.origin.feature.home.domain.entity.AppInfo
+import com.ytplus.manager.origin.feature.home.domain.usecase.GetAppsInfoUseCase
 import kotlinx.coroutines.flow.MutableSharedFlow
 import kotlinx.coroutines.flow.SharedFlow
 import kotlinx.coroutines.flow.asSharedFlow

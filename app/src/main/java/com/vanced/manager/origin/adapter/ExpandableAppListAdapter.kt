@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.adapter
+package com.ytplus.manager.origin.adapter
 
 import android.animation.ValueAnimator
 import android.view.LayoutInflater
@@ -13,14 +13,14 @@ import androidx.fragment.app.FragmentActivity
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.card.MaterialCardView
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.databinding.ViewAppExpandableBinding
-import com.vanced.manager.origin.model.ButtonTag
-import com.vanced.manager.origin.model.DataModel
-import com.vanced.manager.origin.ui.dialogs.AppInfoDialog
-import com.vanced.manager.origin.ui.dialogs.AppUninstallDialog
-import com.vanced.manager.origin.ui.viewmodels.HomeViewModel
-import com.vanced.manager.origin.utils.*
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.databinding.ViewAppExpandableBinding
+import com.ytplus.manager.origin.model.ButtonTag
+import com.ytplus.manager.origin.model.DataModel
+import com.ytplus.manager.origin.ui.dialogs.AppInfoDialog
+import com.ytplus.manager.origin.ui.dialogs.AppUninstallDialog
+import com.ytplus.manager.origin.ui.viewmodels.HomeViewModel
+import com.ytplus.manager.origin.utils.*
 
 class ExpandableAppListAdapter(
     private val activity: FragmentActivity,

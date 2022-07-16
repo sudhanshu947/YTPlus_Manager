@@ -1,7 +1,7 @@
-package com.vanced.manager.origin.feature.home.data.datasource
+package com.ytplus.manager.origin.feature.home.data.datasource
 
 import android.content.pm.PackageManager
-import com.vanced.manager.origin.feature.home.data.pkg.PkgManager
+import com.ytplus.manager.origin.feature.home.data.pkg.PkgManager
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 

@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.fragments
+package com.ytplus.manager.origin.ui.fragments
 
 import android.content.Intent
 import android.os.Build
@@ -7,11 +7,11 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.core.content.edit
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
-import com.vanced.manager.origin.core.ui.base.BindingFragment
-import com.vanced.manager.origin.databinding.FragmentDevSettingsBinding
-import com.vanced.manager.origin.ui.WelcomeActivity
-import com.vanced.manager.origin.ui.dialogs.ManagerUpdateDialog
-import com.vanced.manager.origin.ui.dialogs.URLChangeDialog
+import com.ytplus.manager.origin.core.ui.base.BindingFragment
+import com.ytplus.manager.origin.databinding.FragmentDevSettingsBinding
+import com.ytplus.manager.origin.ui.WelcomeActivity
+import com.ytplus.manager.origin.ui.dialogs.ManagerUpdateDialog
+import com.ytplus.manager.origin.ui.dialogs.URLChangeDialog
 
 class DevSettingsFragment : BindingFragment<FragmentDevSettingsBinding>() {
 

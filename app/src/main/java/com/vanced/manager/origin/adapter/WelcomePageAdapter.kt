@@ -1,11 +1,11 @@
-package com.vanced.manager.origin.adapter
+package com.ytplus.manager.origin.adapter
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.viewpager2.adapter.FragmentStateAdapter
-import com.vanced.manager.origin.ui.fragments.GrantRootFragment
-import com.vanced.manager.origin.ui.fragments.SelectAppsFragment
-import com.vanced.manager.origin.ui.fragments.WelcomeFragment
+import com.ytplus.manager.origin.ui.fragments.GrantRootFragment
+import com.ytplus.manager.origin.ui.fragments.SelectAppsFragment
+import com.ytplus.manager.origin.ui.fragments.WelcomeFragment
 
 class WelcomePageAdapter(activity: FragmentActivity) : FragmentStateAdapter(activity) {
 

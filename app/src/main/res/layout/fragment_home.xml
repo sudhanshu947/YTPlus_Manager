@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.vanced.manager.origin.ui.core.ThemedSwipeRefreshlayout xmlns:android="http://schemas.android.com/apk/res/android"
+<com.ytplus.manager.origin.ui.core.ThemedSwipeRefreshlayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/home_refresh"
@@ -19,7 +19,7 @@
             android:orientation="vertical"
             android:paddingVertical="12dp">
 
-            <com.vanced.manager.origin.ui.core.ThemedTextView
+            <com.ytplus.manager.origin.ui.core.ThemedTextView
                 android:layout_marginStart="20dp"
                 android:text="@string/apps"
                 style="@style/CardTextHeader" />
@@ -41,7 +41,7 @@
                 tools:itemCount="2"
                 tools:listitem="@layout/view_sponsor" />
 
-            <com.vanced.manager.origin.ui.core.ThemedTextView
+            <com.ytplus.manager.origin.ui.core.ThemedTextView
                 android:layout_marginTop="12dp"
                 android:layout_marginStart="20dp"
                 android:text="@string/social_media"
@@ -60,4 +60,4 @@
 
     </androidx.core.widget.NestedScrollView>
 
-</com.vanced.manager.origin.ui.core.ThemedSwipeRefreshlayout>
+</com.ytplus.manager.origin.ui.core.ThemedSwipeRefreshlayout>

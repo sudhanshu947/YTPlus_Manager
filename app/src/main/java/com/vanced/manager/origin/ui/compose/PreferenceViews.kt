@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.compose
+package com.ytplus.manager.origin.ui.compose
 
 //import androidx.compose.foundation.clickable
 //import androidx.compose.foundation.layout.Column

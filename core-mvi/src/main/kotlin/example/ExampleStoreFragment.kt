@@ -1,6 +1,6 @@
 package example
 
-import com.vanced.manager.origin.core.mvi.*
+import com.ytplus.manager.origin.core.mvi.*
 import kotlinx.coroutines.*
 import kotlinx.coroutines.channels.awaitClose
 import kotlinx.coroutines.flow.Flow

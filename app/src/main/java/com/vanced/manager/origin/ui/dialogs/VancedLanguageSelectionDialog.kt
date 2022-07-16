@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.dialogs
+package com.ytplus.manager.origin.ui.dialogs
 
 import android.content.DialogInterface
 import android.os.Bundle
@@ -9,14 +9,14 @@ import android.view.ViewGroup.LayoutParams.WRAP_CONTENT
 import android.widget.LinearLayout
 import android.widget.Toast
 import com.google.android.material.checkbox.MaterialCheckBox
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.core.ui.base.BindingBottomSheetDialogFragment
-import com.vanced.manager.origin.core.ui.ext.showDialog
-import com.vanced.manager.origin.databinding.DialogVancedLanguageSelectionBinding
-import com.vanced.manager.origin.ui.core.ThemedMaterialCheckbox
-import com.vanced.manager.origin.utils.installPrefs
-import com.vanced.manager.origin.utils.lang
-import com.vanced.manager.origin.utils.vanced
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.core.ui.base.BindingBottomSheetDialogFragment
+import com.ytplus.manager.origin.core.ui.ext.showDialog
+import com.ytplus.manager.origin.databinding.DialogVancedLanguageSelectionBinding
+import com.ytplus.manager.origin.ui.core.ThemedMaterialCheckbox
+import com.ytplus.manager.origin.utils.installPrefs
+import com.ytplus.manager.origin.utils.lang
+import com.ytplus.manager.origin.utils.vanced
 import java.util.*
 
 class VancedLanguageSelectionDialog :

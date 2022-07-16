@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.ui.dialogs
+package com.ytplus.manager.origin.ui.dialogs
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,10 +7,10 @@ import android.widget.Toast
 import androidx.core.content.edit
 import androidx.preference.PreferenceManager.getDefaultSharedPreferences
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.adapter.SelectAppsAdapter
-import com.vanced.manager.origin.core.ui.base.BindingBottomSheetDialogFragment
-import com.vanced.manager.origin.databinding.DialogSelectAppsBinding
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.adapter.SelectAppsAdapter
+import com.ytplus.manager.origin.core.ui.base.BindingBottomSheetDialogFragment
+import com.ytplus.manager.origin.databinding.DialogSelectAppsBinding
 
 class SelectAppsDialog : BindingBottomSheetDialogFragment<DialogSelectAppsBinding>() {
 

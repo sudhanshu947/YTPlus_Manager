@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.feature.home.domain.entity
+package com.ytplus.manager.origin.feature.home.domain.entity
 
 import android.graphics.Bitmap
 

@@ -1,16 +1,16 @@
-package com.vanced.manager.origin.core.downloader
+package com.ytplus.manager.origin.core.downloader
 
 import android.content.Context
 import android.content.SharedPreferences
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.utils.*
-import com.vanced.manager.origin.utils.AppUtils.log
-import com.vanced.manager.origin.utils.AppUtils.validateTheme
-import com.vanced.manager.origin.utils.AppUtils.vancedRootPkg
-import com.vanced.manager.origin.utils.DownloadHelper.download
-import com.vanced.manager.origin.utils.PackageHelper.downloadStockCheck
-import com.vanced.manager.origin.utils.PackageHelper.installSplitApkFiles
-import com.vanced.manager.origin.utils.PackageHelper.installVancedRoot
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.utils.*
+import com.ytplus.manager.origin.utils.AppUtils.log
+import com.ytplus.manager.origin.utils.AppUtils.validateTheme
+import com.ytplus.manager.origin.utils.AppUtils.vancedRootPkg
+import com.ytplus.manager.origin.utils.DownloadHelper.download
+import com.ytplus.manager.origin.utils.PackageHelper.downloadStockCheck
+import com.ytplus.manager.origin.utils.PackageHelper.installSplitApkFiles
+import com.ytplus.manager.origin.utils.PackageHelper.installVancedRoot
 import java.io.File
 
 object VancedDownloader {

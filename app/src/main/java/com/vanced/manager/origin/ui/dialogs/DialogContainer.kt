@@ -1,13 +1,13 @@
-package com.vanced.manager.origin.ui.dialogs
+package com.ytplus.manager.origin.ui.dialogs
 
 import android.content.Context
 import androidx.core.content.edit
 import androidx.preference.PreferenceManager
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
-import com.vanced.manager.origin.R
-import com.vanced.manager.origin.utils.isMiuiOptimizationsEnabled
-import com.vanced.manager.origin.utils.openUrl
-import com.vanced.manager.origin.utils.showWithAccent
+import com.ytplus.manager.origin.R
+import com.ytplus.manager.origin.utils.isMiuiOptimizationsEnabled
+import com.ytplus.manager.origin.utils.openUrl
+import com.ytplus.manager.origin.utils.showWithAccent
 
 object DialogContainer {
 
